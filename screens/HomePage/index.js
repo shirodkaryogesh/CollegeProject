@@ -6,17 +6,18 @@ import { useNavigation } from "@react-navigation/native";
 
 const HomePage = () => {
   const { navigate } = useNavigation();
-  const [value, setValue] = React.useState("first");
-  const [Fname, onChangeFname] = React.useState(null);
-  const [age, onChangeAge] = React.useState(null);
-  const [Lname, onChangeLname] = React.useState(null);
-  const [Weight, onChangeWeight] = React.useState(null);
-  const [Height, onChangeHeight] = React.useState(null);
+  const [gender, setGender] = React.useState("male");
+  const [Fname, onChangeFname] = React.useState("");
+  const [age, onChangeAge] = React.useState(0);
+  const [Lname, onChangeLname] = React.useState("");
+  const [weight, onChangeWeight] = React.useState("");
+  const [height, onChangeHeight] = React.useState("");
+
   return (
     <SafeAreaView style={styles.container}>
       <TextInput
         style={styles.input}
-        onChangeFname={onChangeFname}
+        onChangeText={onChangeFname}
         value={Fname}
         label="First Name"
         mode="outlined"
@@ -25,7 +26,7 @@ const HomePage = () => {
       />
       <TextInput
         style={styles.input}
-        onChangeLname={onChangeLname}
+        onChangeText={onChangeLname}
         value={Lname}
         label="Last Name"
         mode="outlined"
@@ -34,7 +35,7 @@ const HomePage = () => {
       />
       <TextInput
         style={styles.input}
-        onChangeFname={onChangeAge}
+        onChangeText={onChangeAge}
         value={age}
         label="Age"
         mode="outlined"
@@ -46,9 +47,9 @@ const HomePage = () => {
         style={styles.input}
         mode="outlined"
         outlineStyle={styles.inputOutline}
-        onChangeWeight={onChangeWeight}
-        value={Weight}
-        label="Weight"
+        onChangeText={onChangeWeight}
+        value={weight}
+        label="weight"
         placeholder="Enter Your weight(kg)"
         keyboardType="numeric"
       />
@@ -56,30 +57,31 @@ const HomePage = () => {
         style={styles.input}
         mode="outlined"
         outlineStyle={styles.inputOutline}
-        onChangeHeight={onChangeHeight}
-        value={Height}
-        label="Height"
+        onChangeText={onChangeHeight}
+        value={height}
+        label="height"
         placeholder="Enter Your Height(cm)"
         keyboardType="numeric"
       />
       <Card style={styles.padding}>
         <Text style={styles.font}>Sex</Text>
         <RadioButton.Group
-          onValueChange={(value) => setValue(value)}
-          value={value}
+          onValueChange={(value) => setGender(value)}
+          value={gender}
         >
-          <RadioButton.Item label="Male" value="first" />
-          <RadioButton.Item label="Female" value="second" />
-          {/* <RadioButton.Item label="Others" value="third" /> */}
+          <RadioButton.Item label="Male" value="male" />
+          <RadioButton.Item label="Female" value="female" />
         </RadioButton.Group>
       </Card>
-      <Button
-        mode="outlined"
-        style={{ width: 200, alignSelf: "center", marginTop: 20 }}
-        onPress={() => navigate("Select")}
-      >
-        Next
-      </Button>
+      {age && weight && height && gender && Fname && Lname ? (
+        <Button
+          mode="outlined"
+          style={{ width: 200, alignSelf: "center", marginTop: 20 }}
+          onPress={() => navigate("Select", { age, height, weight, gender })}
+        >
+          Next
+        </Button>
+      ) : null}
     </SafeAreaView>
   );
 };

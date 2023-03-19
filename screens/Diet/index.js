@@ -1,83 +1,89 @@
 import { StyleSheet, Text, View, ScrollView } from "react-native";
-import React from "react";
+import React, { useLayoutEffect, useState } from "react";
+import { getDiets } from "../../utils/getDiets";
+import { List, Card } from "react-native-paper";
 
 const Diet = ({ route }) => {
-  const { data, foodType, name, level } = route.params;
+  const [loading, setLoading] = useState(false);
+  const [dietsError, setDietsError] = useState("");
+  const [diets, setDiets] = useState(null);
+  const { totalCalories, gender, level, foodType } = route.params;
+
+  useLayoutEffect(() => {
+    if (totalCalories && gender && level && foodType) {
+      setLoading(true);
+      const { data, isError, message } = getDiets({
+        gender,
+        totalCalories,
+        level,
+        foodType,
+      });
+      if (data) {
+        setDiets(data);
+      }
+      if (isError || !data) {
+        setDietsError(message);
+      }
+
+      setLoading(false);
+    }
+  }, [totalCalories]);
+
+  if (loading) {
+    return (
+      <View>
+        <Text>loading....</Text>
+      </View>
+    );
+  }
+
+  if (dietsError && !diets) {
+    return (
+      <View>
+        <Text>No data available</Text>
+      </View>
+    );
+  }
+
   return (
     <ScrollView>
-      <View>
-        {name === "Diabetes" && (
-          <View>
-            <Text style={styles.heading}>
-              Suggested {foodType} diet for {name} of type {level}
-            </Text>
-
-            <View style={styles.container}>
-              <Text style={styles.weekFont}>MONDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Monday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Monday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Monday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>Dinner:{data.Monday.Dinner[0]}</Text>
-              <Text style={styles.weekFont}>TUESDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Tuesday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Tuesday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Tuesday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>
-                Dinner:{data.Tuesday.Dinner[0]}
-              </Text>
-              <Text style={styles.weekFont}>WEDNESDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Wednesday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>
-                Lunch:{data.Wednesday.Lunch[0]}
-              </Text>
-              <Text style={styles.dayFont}>
-                Snack:{data.Wednesday.Snack[0]}
-              </Text>
-              <Text style={styles.dayFont}>
-                Dinner:{data.Wednesday.Dinner[0]}
-              </Text>
-              <Text style={styles.weekFont}>THURSDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Thursday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Thursday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Thursday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>
-                Dinner:{data.Thursday.Dinner[0]}
-              </Text>
-              <Text style={styles.weekFont}>FRIDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Friday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Friday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Friday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>Dinner:{data.Friday.Dinner[0]}</Text>
-              <Text style={styles.weekFont}>SATURDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Saturday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Saturday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Saturday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>
-                Dinner:{data.Saturday.Dinner[0]}
-              </Text>
-              <Text style={styles.weekFont}>SUNDAY</Text>
-              <Text style={styles.dayFont}>
-                Breakfast:{data.Sunday.breakfast[0]}
-              </Text>
-              <Text style={styles.dayFont}>Lunch:{data.Sunday.Lunch[0]}</Text>
-              <Text style={styles.dayFont}>Snack:{data.Sunday.Snack[0]}</Text>
-              <Text style={styles.dayFont}>Dinner:{data.Sunday.Dinner[0]}</Text>
-            </View>
-          </View>
-        )}
-      </View>
+      {diets &&
+        Object.keys(diets).map((m, i) => (
+          <List.Accordion title={m} key={`m${i}`}>
+            <Card style={{ margin: 10 }} mode="outlined">
+              <Card.Title title="Breakfast" />
+              <Card.Content>
+                {diets[m].breakfast.map((j) => (
+                  <Text variant="titleLarge">{j}</Text>
+                ))}
+              </Card.Content>
+              <Card.Title title="snack" />
+              <Card.Content>
+                {diets[m].snack.map((j) => (
+                  <Text variant="titleLarge">{j}</Text>
+                ))}
+              </Card.Content>
+              <Card.Title title="Lunch" />
+              <Card.Content>
+                {diets[m].Lunch.map((j) => (
+                  <Text variant="titleLarge">{j}</Text>
+                ))}
+              </Card.Content>
+              <Card.Title title="Snack" />
+              <Card.Content>
+                {diets[m].Snack.map((j) => (
+                  <Text variant="titleLarge">{j}</Text>
+                ))}
+              </Card.Content>
+              <Card.Title title="Dinner" />
+              <Card.Content>
+                {diets[m].Dinner.map((j) => (
+                  <Text variant="titleLarge">{j}</Text>
+                ))}
+              </Card.Content>
+            </Card>
+          </List.Accordion>
+        ))}
     </ScrollView>
   );
 };
