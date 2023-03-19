@@ -2567,7 +2567,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, tomato, garlic and onion",
             ],
-            snack: ["2 poha cutlets"],
+            Snack: ["2 poha cutlets"],
             Lunch: [
               "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -2580,7 +2580,7 @@ export const Diets = {
             breakfast: [
               " 2 slices of whole wheat toast with 2 tablespoons of peanut butter ",
             ],
-            snack: ["1 bowl of vegetable upma "],
+            Snack: ["1 bowl of vegetable upma "],
             Lunch: [
               "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -2593,7 +2593,7 @@ export const Diets = {
             breakfast: [
               "2 slices of multigrain bread with 2 tablespoons of hummus",
             ],
-            snack: ["2 vegetable vadas"],
+            Snack: ["2 vegetable vadas"],
             Lunch: [
               " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -2606,7 +2606,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach, tomato, garlic and onion",
             ],
-            snack: ["2 poha cutlets"],
+            Snack: ["2 poha cutlets"],
             Lunch: [
               " cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -2619,7 +2619,7 @@ export const Diets = {
             breakfast: [
               "2 slices of multigrain bread with 2 tablespoons of hummus",
             ],
-            snack: [" 1 bowl of vegetable upma"],
+            Snack: [" 1 bowl of vegetable upma"],
             Lunch: [
               " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
             ],
@@ -2632,7 +2632,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, tomato, garlic and onion ",
             ],
-            snack: ["2 vegetable vadas"],
+            Snack: ["2 vegetable vadas"],
             Lunch: [
               "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
             ],
@@ -2645,7 +2645,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tablespoons of peanut butter",
             ],
-            snack: [" 1 bowl of vegetable upma"],
+            Snack: [" 1 bowl of vegetable upma"],
             Lunch: [
               "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -2658,7 +2658,7 @@ export const Diets = {
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            snack: ["1 small apple"],
+            Snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -2670,7 +2670,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            snack: ["1 small orange (60 calories)"],
+            Snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -2684,7 +2684,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -2696,7 +2696,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            snack: ["1 small guava"],
+            Snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -2710,7 +2710,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            snack: ["1 small peach"],
+            Snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -2724,7 +2724,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            snack: ["1 small banana"],
+            Snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -2738,7 +2738,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -2755,7 +2755,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast ",
             ],
-            snack: [" 1 cup of sprouts "],
+            Snack: [" 1 cup of sprouts "],
             Lunch: [
               " 3-4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2768,7 +2768,7 @@ export const Diets = {
             breakfast: [
               "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
             ],
-            snack: [" 1 cup of yogurt "],
+            Snack: [" 1 cup of yogurt "],
             Lunch: [
               "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2781,7 +2781,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2794,7 +2794,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
             ],
-            snack: ["1 cup of sprouts "],
+            Snack: ["1 cup of sprouts "],
             Lunch: [
               " 4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2807,7 +2807,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
             ],
-            snack: ["1 cup of yogurt"],
+            Snack: ["1 cup of yogurt"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2820,7 +2820,7 @@ export const Diets = {
             breakfast: [
               "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
             ],
-            snack: [" 1 cup of roasted chickpeas "],
+            Snack: [" 1 cup of roasted chickpeas "],
             Lunch: [
               "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -2833,7 +2833,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
             ],
-            snack: ["1 cup of yogurt"],
+            Snack: ["1 cup of yogurt"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
             ],
@@ -2848,7 +2848,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -2864,7 +2864,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -2880,7 +2880,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -2896,7 +2896,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -2912,7 +2912,7 @@ export const Diets = {
             Breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -2928,7 +2928,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -2944,7 +2944,7 @@ export const Diets = {
             Breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -2963,7 +2963,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -2976,7 +2976,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -2989,7 +2989,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast + 1 boiled egg + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -3002,7 +3002,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -3013,7 +3013,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -3026,7 +3026,7 @@ export const Diets = {
           },
           Saturday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -3037,7 +3037,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -3054,7 +3054,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -3072,7 +3072,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -3086,7 +3086,7 @@ export const Diets = {
             Breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -3102,7 +3102,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3118,7 +3118,7 @@ export const Diets = {
             Breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -3134,7 +3134,7 @@ export const Diets = {
             Breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -3152,7 +3152,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3169,7 +3169,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit",
             ],
-            snack: [
+            Snack: [
               " 2 corn tortillas stuffed with grated cheese and vegetables ",
             ],
             Lunch: [
@@ -3186,7 +3186,7 @@ export const Diets = {
             breakfast: [
               "2 egg white omelette with bell peppers and onions, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey ",
             ],
             Lunch: [
@@ -3201,7 +3201,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomatoes, 1/2 cup of oatmeal with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: [" 2 almond stuffed idlis "],
+            Snack: [" 2 almond stuffed idlis "],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -3214,7 +3214,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach and mushroom, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: ["2 wheat crackers with 1 tsp of peanut butter"],
+            Snack: ["2 wheat crackers with 1 tsp of peanut butter"],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -3227,7 +3227,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with bell peppers and onions, 1/2 cup of oats with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: ["2 almond stuffed idlis "],
+            Snack: ["2 almond stuffed idlis "],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -3240,7 +3240,7 @@ export const Diets = {
             breakfast: [
               " 2 egg white omelette with tomatoes, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit ",
             ],
-            snack: [
+            Snack: [
               "2 corn tortillas stuffed with grated cheese and vegetables ",
             ],
             Lunch: [
@@ -3255,7 +3255,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit ",
             ],
-            snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
+            Snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
             Lunch: [
               " 1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -3272,7 +3272,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3288,7 +3288,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -3302,7 +3302,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3318,7 +3318,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -3336,7 +3336,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3350,7 +3350,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3366,7 +3366,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3385,7 +3385,7 @@ export const Diets = {
             breakfast: [
               "2 Idlis, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: [
+            Snack: [
               " 1 slice of multigrain toast with butter and 1 cup of skimmed milk",
             ],
             Lunch: [
@@ -3398,7 +3398,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: ["2 boiled eggs, 1 toast, 1 cup green tea"],
-            snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
+            Snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
             Lunch: [
               "1 bowl of vegetable pulao, 1 cup of vegetable soup, 1 cup of curd",
             ],
@@ -3411,7 +3411,7 @@ export const Diets = {
             breakfast: [
               "2 dosas, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of upma, 1 cup of skimmed milk"],
+            Snack: ["1 bowl of upma, 1 cup of skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -3422,7 +3422,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 poha, 1/2 cup curd, 1 cup green tea"],
-            snack: [" 1 banana smoothie, 1 cup skimmed milk"],
+            Snack: [" 1 banana smoothie, 1 cup skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -3435,7 +3435,7 @@ export const Diets = {
             breakfast: [
               "2 parathas, 1/2 cup curd, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
             Lunch: [
               " 2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -3448,7 +3448,7 @@ export const Diets = {
             breakfast: [
               "2 dosa, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
+            Snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -3459,7 +3459,7 @@ export const Diets = {
           },
           Sunday: {
             breakfast: ["2 parathas, 1/2 cup curd, 1 cup green tea"],
-            snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -3474,7 +3474,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -3490,7 +3490,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -3506,7 +3506,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3524,7 +3524,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3540,7 +3540,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted peanuts"],
+            Snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3556,7 +3556,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3572,7 +3572,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3593,7 +3593,7 @@ export const Diets = {
             breakfast: [
               " 1 cup of oats porridge with vegetables and a handful of roasted peanuts",
             ],
-            snack: [" 1 cup of green tea with two whole wheat biscuits "],
+            Snack: [" 1 cup of green tea with two whole wheat biscuits "],
             Lunch: [
               "1 cup of cooked brown rice with dal, 1 cup of cooked vegetables and a bowl of curd  ",
             ],
@@ -3604,7 +3604,7 @@ export const Diets = {
             breakfast: [
               "1 bowl of muesli with 1 cup of curd and a handful of mixed nuts ",
             ],
-            snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
             Lunch: [
               "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -3615,7 +3615,7 @@ export const Diets = {
           },
           Wednesday: {
             breakfast: [" 1 bowl of vegetable upma with a glass of buttermilk"],
-            snack: [" 1 cup of green tea with 1 piece of roasted papad "],
+            Snack: [" 1 cup of green tea with 1 piece of roasted papad "],
             Lunch: [
               "1 bowl of mixed vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -3624,7 +3624,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 egg omelette with 1 piece of whole wheat toast "],
-            snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
+            Snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
             Lunch: [
               " 1 bowl of brown rice with dal, 1 bowl of cooked vegetables and a bowl of curd ",
             ],
@@ -3637,7 +3637,7 @@ export const Diets = {
             breakfast: [
               "1 bowl of oats porridge with vegetables and a handful of roasted almonds",
             ],
-            snack: ["1 cup of green tea with two whole wheat biscuits "],
+            Snack: ["1 cup of green tea with two whole wheat biscuits "],
             Lunch: [
               " 1 bowl of vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita",
             ],
@@ -3648,7 +3648,7 @@ export const Diets = {
           },
           Saturday: {
             breakfast: ["2 egg omelette with 1 piece of whole wheat toast"],
-            snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
+            Snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
             Lunch: [
               "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -3659,7 +3659,7 @@ export const Diets = {
             breakfast: [
               " 1 bowl of muesli with 1 cup of curd and a handful of mixed nuts",
             ],
-            snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
             Lunch: [
               "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
             ],
@@ -3672,7 +3672,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3688,7 +3688,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3706,7 +3706,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3724,7 +3724,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3740,7 +3740,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3758,7 +3758,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3776,7 +3776,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3795,7 +3795,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Omelette (2 eggs, 1/2 cup onions and green peppers, 1/4 teaspoon of turmeric, 1/2 teaspoon of cumin powder, and 1/4 teaspoon of black pepper) with 2 whole wheat toast and 1 cup of green tea",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -3810,7 +3810,7 @@ export const Diets = {
             breakfast: [
               "Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
             ],
@@ -3823,7 +3823,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Upma (1 cup of semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
+            Snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
             ],
@@ -3836,7 +3836,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Cutlet (2 potatoes, 1/2 cup of beans and carrots, 1/2 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
             Lunch: [
               " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
             ],
@@ -3849,7 +3849,7 @@ export const Diets = {
             breakfast: [
               "Vegetable Poha (1 cup of beaten rice, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -3864,7 +3864,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Paratha (2 wheat flour rotis, 1/4 cup of onions, 1/4 cup of tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
             ],
@@ -3877,7 +3877,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -3894,7 +3894,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -3912,7 +3912,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3930,7 +3930,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with carrot and beetroot",
             ],
@@ -3946,7 +3946,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat idlis with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -3964,7 +3964,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3982,7 +3982,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts and curry leaves, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3998,7 +3998,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -4019,7 +4019,7 @@ export const Diets = {
             breakfast: [
               " 1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
             ],
-            snack: ["1 bowl sprouts chaat"],
+            Snack: ["1 bowl sprouts chaat"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4032,7 +4032,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp peanut butter",
             ],
-            snack: ["1 bowl roasted makhana"],
+            Snack: ["1 bowl roasted makhana"],
             Lunch: [
               " 2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4045,7 +4045,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
             ],
-            snack: [" 1 bowl of roasted peanuts"],
+            Snack: [" 1 bowl of roasted peanuts"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4058,7 +4058,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp almond butter",
             ],
-            snack: ["1 bowl khakras"],
+            Snack: ["1 bowl khakras"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4071,7 +4071,7 @@ export const Diets = {
             breakfast: [
               "1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
             ],
-            snack: [" 1 bowl roasted makhana"],
+            Snack: [" 1 bowl roasted makhana"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4084,7 +4084,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp peanut butter",
             ],
-            snack: [" 1 bowl of roasted peanuts"],
+            Snack: [" 1 bowl of roasted peanuts"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4097,7 +4097,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
             ],
-            snack: ["1 bowl khakras"],
+            Snack: ["1 bowl khakras"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -4110,7 +4110,7 @@ export const Diets = {
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            snack: ["1 small apple"],
+            Snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -4122,7 +4122,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            snack: ["1 small orange (60 calories)"],
+            Snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -4136,7 +4136,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -4148,7 +4148,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            snack: ["1 small guava"],
+            Snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -4162,7 +4162,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            snack: ["1 small peach"],
+            Snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -4176,7 +4176,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            snack: ["1 small banana"],
+            Snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -4190,7 +4190,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -4207,7 +4207,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat rotis + 1/2 cup cooked sprouts + 1 cup low fat yogurt",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
             Lunch: [
               "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal fry",
             ],
@@ -4220,7 +4220,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat parathas + 1/2 cup cooked brown rice + 1 cup of low fat curd",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
             Lunch: [
               "1 bowl of vegetable biryani + 1 cup of boiled vegetables + 1 bowl of dal tadka",
             ],
@@ -4233,7 +4233,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat pancakes + 1/2 cup cooked oats + 1 cup of low fat milk",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
             Lunch: [
               "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal makhani",
             ],
@@ -4246,7 +4246,7 @@ export const Diets = {
             breakfast: [
               "2 multigrain chapatis + 1/2 cup cooked quinoa + 1 cup of low fat lassi",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
             Lunch: [
               "1 bowl of vegetable kadhi + 1 cup of boiled vegetables + 1 bowl of dal palak",
             ],
@@ -4259,7 +4259,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat dosa + 1/2 cup cooked millet + 1 cup of low fat buttermilk",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
             Lunch: [
               "1 bowl of vegetable upma + 1 cup of boiled vegetables + 1 bowl of dal fry",
             ],
@@ -4272,7 +4272,7 @@ export const Diets = {
             breakfast: [
               "2 multigrain idlis + 1/2 cup cooked rajma + 1 cup of low fat curd",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
             Lunch: [
               "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal makhani",
             ],
@@ -4285,7 +4285,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat uttapam + 1/2 cup cooked barley + 1 cup of low fat lassi",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
             Lunch: [
               "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal tadka",
             ],
@@ -4300,7 +4300,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -4316,7 +4316,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -4332,7 +4332,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -4348,7 +4348,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -4364,7 +4364,7 @@ export const Diets = {
             Breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -4380,7 +4380,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -4396,7 +4396,7 @@ export const Diets = {
             Breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -4415,7 +4415,7 @@ export const Diets = {
             breakfast: [
               " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -4428,7 +4428,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -4441,7 +4441,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: [
+            Snack: [
               " 2 tablespoons of roasted chana and a glass of buttermilk",
             ],
             Lunch: [
@@ -4456,7 +4456,7 @@ export const Diets = {
             breakfast: [
               " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: [
+            Snack: [
               " 2 tablespoons of roasted chana and a glass of buttermilk",
             ],
             Lunch: [
@@ -4471,7 +4471,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -4484,7 +4484,7 @@ export const Diets = {
             breakfast: [
               "one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -4497,7 +4497,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -4512,7 +4512,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -4530,7 +4530,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -4544,7 +4544,7 @@ export const Diets = {
             Breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -4560,7 +4560,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4576,7 +4576,7 @@ export const Diets = {
             Breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -4592,7 +4592,7 @@ export const Diets = {
             Breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -4610,7 +4610,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4627,7 +4627,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach and grilled mushrooms with 1 cup of oats and 1 cup of fat-free yogurt",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               " 2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -4640,7 +4640,7 @@ export const Diets = {
             breakfast: [
               "2 poached eggs with spinach and low-fat cheese with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
             ],
@@ -4653,7 +4653,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -4666,7 +4666,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: ["1 cup of roasted chickpeas"],
+            Snack: ["1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -4679,7 +4679,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with bell peppers and onions with 1 cup of oats and 1 cup of fat-free yogurt",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -4692,7 +4692,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -4705,7 +4705,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
             ],
@@ -4720,7 +4720,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4736,7 +4736,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -4750,7 +4750,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4766,7 +4766,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -4784,7 +4784,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4798,7 +4798,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -4814,7 +4814,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4831,7 +4831,7 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -4841,7 +4841,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["Oatmeal with mixed berries and chopped nuts"],
-            snack: ["Carrot sticks with hummus"],
+            Snack: ["Carrot sticks with hummus"],
             Lunch: [
               "Chicken and vegetable soup with a side of whole wheat bread",
             ],
@@ -4851,7 +4851,7 @@ export const Diets = {
 
           Wednesday: {
             breakfast: ["Greek yogurt with sliced banana and granola"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled chicken breast with a side of mixed vegetables and brown rice",
             ],
@@ -4865,7 +4865,7 @@ export const Diets = {
             breakfast: [
               "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
             ],
-            snack: ["Raw vegetable sticks with hummus"],
+            Snack: ["Raw vegetable sticks with hummus"],
             Lunch: ["Tuna salad with mixed greens and cherry tomatoes"],
             Snack: ["Sliced bell pepper with guacamole"],
             Dinner: [
@@ -4877,7 +4877,7 @@ export const Diets = {
             breakfast: [
               "Poached eggs with whole wheat toast and sautéed spinach",
             ],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -4889,7 +4889,7 @@ export const Diets = {
 
           Saturday: {
             breakfast: ["Greek yogurt with mixed berries and granola"],
-            snack: ["Raw vegetable sticks with tzatziki"],
+            Snack: ["Raw vegetable sticks with tzatziki"],
             Lunch: ["Chicken tikka masala with a side of brown rice"],
             Snack: ["Sliced apple with cashew butter"],
             Dinner: [
@@ -4899,7 +4899,7 @@ export const Diets = {
 
           Sunday: {
             breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled shrimp with a side of mixed green salad and brown rice",
             ],
@@ -4914,7 +4914,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -4930,7 +4930,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -4946,7 +4946,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -4964,7 +4964,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -4980,7 +4980,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted peanuts"],
+            Snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4996,7 +4996,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -5012,7 +5012,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5033,7 +5033,7 @@ export const Diets = {
             breakfast: [
               "Omelet made with egg whites, spinach, and mushrooms, served with a slice of whole wheat toast",
             ],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -5043,7 +5043,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: [" Greek yogurt with berries and chopped nuts"],
-            snack: ["snackRaw vegetable sticks with tzatziki"],
+            Snack: ["snackRaw vegetable sticks with tzatziki"],
             Lunch: [
               "Chicken and vegetable soup with a side of whole wheat bread",
             ],
@@ -5055,7 +5055,7 @@ export const Diets = {
 
           Wednesday: {
             breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [" Tuna salad with mixed greens and cherry tomatoes"],
             Snack: ["Raw vegetable sticks with hummus"],
             Dinner: [
@@ -5067,7 +5067,7 @@ export const Diets = {
             breakfast: [
               "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
             ],
-            snack: [" Carrot sticks with hummus"],
+            Snack: [" Carrot sticks with hummus"],
             Lunch: [
               "Grilled chicken kebab with a side of mixed green salad and brown rice",
             ],
@@ -5077,7 +5077,7 @@ export const Diets = {
 
           Friday: {
             breakfast: ["Oatmeal with sliced banana and cinnamon"],
-            snack: ["Raw vegetable sticks with tzatziki"],
+            Snack: ["Raw vegetable sticks with tzatziki"],
             Lunch: ["Chicken tikka masala with a side of brown rice"],
             Snack: ["Sliced cucumber with guacamole"],
             Dinner: [
@@ -5087,7 +5087,7 @@ export const Diets = {
 
           Saturday: {
             breakfast: [" Greek yogurt with mixed berries and granola"],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: ["Chicken salad with mixed greens and cherry tomatoes"],
             Snack: ["Apple slices with cashew butter"],
             Dinner: [
@@ -5097,7 +5097,7 @@ export const Diets = {
 
           Sunday: {
             breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled shrimp with a side of mixed green salad and brown rice",
             ],
@@ -5112,7 +5112,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -5128,7 +5128,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5146,7 +5146,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -5164,7 +5164,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -5180,7 +5180,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5198,7 +5198,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -5216,7 +5216,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -7799,7 +7799,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, tomato, garlic and onion",
             ],
-            snack: ["2 poha cutlets"],
+            Snack: ["2 poha cutlets"],
             Lunch: [
               "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -7812,7 +7812,7 @@ export const Diets = {
             breakfast: [
               " 2 slices of whole wheat toast with 2 tablespoons of peanut butter ",
             ],
-            snack: ["1 bowl of vegetable upma "],
+            Snack: ["1 bowl of vegetable upma "],
             Lunch: [
               "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -7825,7 +7825,7 @@ export const Diets = {
             breakfast: [
               "2 slices of multigrain bread with 2 tablespoons of hummus",
             ],
-            snack: ["2 vegetable vadas"],
+            Snack: ["2 vegetable vadas"],
             Lunch: [
               " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -7838,7 +7838,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach, tomato, garlic and onion",
             ],
-            snack: ["2 poha cutlets"],
+            Snack: ["2 poha cutlets"],
             Lunch: [
               " cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -7851,7 +7851,7 @@ export const Diets = {
             breakfast: [
               "2 slices of multigrain bread with 2 tablespoons of hummus",
             ],
-            snack: [" 1 bowl of vegetable upma"],
+            Snack: [" 1 bowl of vegetable upma"],
             Lunch: [
               " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
             ],
@@ -7864,7 +7864,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, tomato, garlic and onion ",
             ],
-            snack: ["2 vegetable vadas"],
+            Snack: ["2 vegetable vadas"],
             Lunch: [
               "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
             ],
@@ -7877,7 +7877,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tablespoons of peanut butter",
             ],
-            snack: [" 1 bowl of vegetable upma"],
+            Snack: [" 1 bowl of vegetable upma"],
             Lunch: [
               "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
             ],
@@ -7890,7 +7890,7 @@ export const Diets = {
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            snack: ["1 small apple"],
+            Snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -7902,7 +7902,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            snack: ["1 small orange (60 calories)"],
+            Snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -7916,7 +7916,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -7928,7 +7928,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            snack: ["1 small guava"],
+            Snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -7942,7 +7942,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            snack: ["1 small peach"],
+            Snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -7956,7 +7956,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            snack: ["1 small banana"],
+            Snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -7970,7 +7970,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -7987,7 +7987,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast ",
             ],
-            snack: [" 1 cup of sprouts "],
+            Snack: [" 1 cup of sprouts "],
             Lunch: [
               " 3-4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8000,7 +8000,7 @@ export const Diets = {
             breakfast: [
               "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
             ],
-            snack: [" 1 cup of yogurt "],
+            Snack: [" 1 cup of yogurt "],
             Lunch: [
               "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8013,7 +8013,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8026,7 +8026,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
             ],
-            snack: ["1 cup of sprouts "],
+            Snack: ["1 cup of sprouts "],
             Lunch: [
               " 4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8039,7 +8039,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
             ],
-            snack: ["1 cup of yogurt"],
+            Snack: ["1 cup of yogurt"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8052,7 +8052,7 @@ export const Diets = {
             breakfast: [
               "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
             ],
-            snack: [" 1 cup of roasted chickpeas "],
+            Snack: [" 1 cup of roasted chickpeas "],
             Lunch: [
               "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
             ],
@@ -8065,7 +8065,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
             ],
-            snack: ["1 cup of yogurt"],
+            Snack: ["1 cup of yogurt"],
             Lunch: [
               "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
             ],
@@ -8080,7 +8080,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -8096,7 +8096,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -8112,7 +8112,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -8128,7 +8128,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -8144,7 +8144,7 @@ export const Diets = {
             Breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -8160,7 +8160,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -8176,7 +8176,7 @@ export const Diets = {
             Breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -8195,7 +8195,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -8208,7 +8208,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -8221,7 +8221,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast + 1 boiled egg + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -8234,7 +8234,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -8245,7 +8245,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -8258,7 +8258,7 @@ export const Diets = {
           },
           Saturday: {
             breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
+            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
             Lunch: [
               "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
             ],
@@ -8269,7 +8269,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
             ],
             Lunch: [
@@ -8286,7 +8286,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -8304,7 +8304,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -8318,7 +8318,7 @@ export const Diets = {
             Breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -8334,7 +8334,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8350,7 +8350,7 @@ export const Diets = {
             Breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -8366,7 +8366,7 @@ export const Diets = {
             Breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -8384,7 +8384,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8401,7 +8401,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit",
             ],
-            snack: [
+            Snack: [
               " 2 corn tortillas stuffed with grated cheese and vegetables ",
             ],
             Lunch: [
@@ -8418,7 +8418,7 @@ export const Diets = {
             breakfast: [
               "2 egg white omelette with bell peppers and onions, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: [
+            Snack: [
               "2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey ",
             ],
             Lunch: [
@@ -8433,7 +8433,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomatoes, 1/2 cup of oatmeal with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: [" 2 almond stuffed idlis "],
+            Snack: [" 2 almond stuffed idlis "],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -8446,7 +8446,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach and mushroom, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: ["2 wheat crackers with 1 tsp of peanut butter"],
+            Snack: ["2 wheat crackers with 1 tsp of peanut butter"],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -8459,7 +8459,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with bell peppers and onions, 1/2 cup of oats with skimmed milk, 1/2 cup of fresh fruit",
             ],
-            snack: ["2 almond stuffed idlis "],
+            Snack: ["2 almond stuffed idlis "],
             Lunch: [
               "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -8472,7 +8472,7 @@ export const Diets = {
             breakfast: [
               " 2 egg white omelette with tomatoes, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit ",
             ],
-            snack: [
+            Snack: [
               "2 corn tortillas stuffed with grated cheese and vegetables ",
             ],
             Lunch: [
@@ -8487,7 +8487,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit ",
             ],
-            snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
+            Snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
             Lunch: [
               " 1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
             ],
@@ -8504,7 +8504,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8520,7 +8520,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -8534,7 +8534,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8550,7 +8550,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -8568,7 +8568,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8582,7 +8582,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8598,7 +8598,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8617,7 +8617,7 @@ export const Diets = {
             breakfast: [
               "2 Idlis, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: [
+            Snack: [
               " 1 slice of multigrain toast with butter and 1 cup of skimmed milk",
             ],
             Lunch: [
@@ -8630,7 +8630,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: ["2 boiled eggs, 1 toast, 1 cup green tea"],
-            snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
+            Snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
             Lunch: [
               "1 bowl of vegetable pulao, 1 cup of vegetable soup, 1 cup of curd",
             ],
@@ -8643,7 +8643,7 @@ export const Diets = {
             breakfast: [
               "2 dosas, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of upma, 1 cup of skimmed milk"],
+            Snack: ["1 bowl of upma, 1 cup of skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -8654,7 +8654,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 poha, 1/2 cup curd, 1 cup green tea"],
-            snack: [" 1 banana smoothie, 1 cup skimmed milk"],
+            Snack: [" 1 banana smoothie, 1 cup skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -8667,7 +8667,7 @@ export const Diets = {
             breakfast: [
               "2 parathas, 1/2 cup curd, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
             Lunch: [
               " 2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -8680,7 +8680,7 @@ export const Diets = {
             breakfast: [
               "2 dosa, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
             ],
-            snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
+            Snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -8691,7 +8691,7 @@ export const Diets = {
           },
           Sunday: {
             breakfast: ["2 parathas, 1/2 cup curd, 1 cup green tea"],
-            snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
             Lunch: [
               "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
             ],
@@ -8706,7 +8706,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -8722,7 +8722,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -8738,7 +8738,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8756,7 +8756,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8772,7 +8772,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted peanuts"],
+            Snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8788,7 +8788,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8804,7 +8804,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8825,7 +8825,7 @@ export const Diets = {
             breakfast: [
               " 1 cup of oats porridge with vegetables and a handful of roasted peanuts",
             ],
-            snack: [" 1 cup of green tea with two whole wheat biscuits "],
+            Snack: [" 1 cup of green tea with two whole wheat biscuits "],
             Lunch: [
               "1 cup of cooked brown rice with dal, 1 cup of cooked vegetables and a bowl of curd  ",
             ],
@@ -8836,7 +8836,7 @@ export const Diets = {
             breakfast: [
               "1 bowl of muesli with 1 cup of curd and a handful of mixed nuts ",
             ],
-            snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
             Lunch: [
               "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -8847,7 +8847,7 @@ export const Diets = {
           },
           Wednesday: {
             breakfast: [" 1 bowl of vegetable upma with a glass of buttermilk"],
-            snack: [" 1 cup of green tea with 1 piece of roasted papad "],
+            Snack: [" 1 cup of green tea with 1 piece of roasted papad "],
             Lunch: [
               "1 bowl of mixed vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -8856,7 +8856,7 @@ export const Diets = {
           },
           Thursday: {
             breakfast: ["2 egg omelette with 1 piece of whole wheat toast "],
-            snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
+            Snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
             Lunch: [
               " 1 bowl of brown rice with dal, 1 bowl of cooked vegetables and a bowl of curd ",
             ],
@@ -8869,7 +8869,7 @@ export const Diets = {
             breakfast: [
               "1 bowl of oats porridge with vegetables and a handful of roasted almonds",
             ],
-            snack: ["1 cup of green tea with two whole wheat biscuits "],
+            Snack: ["1 cup of green tea with two whole wheat biscuits "],
             Lunch: [
               " 1 bowl of vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita",
             ],
@@ -8880,7 +8880,7 @@ export const Diets = {
           },
           Saturday: {
             breakfast: ["2 egg omelette with 1 piece of whole wheat toast"],
-            snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
+            Snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
             Lunch: [
               "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
             ],
@@ -8891,7 +8891,7 @@ export const Diets = {
             breakfast: [
               " 1 bowl of muesli with 1 cup of curd and a handful of mixed nuts",
             ],
-            snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
             Lunch: [
               "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
             ],
@@ -8904,7 +8904,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8920,7 +8920,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8938,7 +8938,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -8956,7 +8956,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -8972,7 +8972,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8990,7 +8990,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9008,7 +9008,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -9027,7 +9027,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Omelette (2 eggs, 1/2 cup onions and green peppers, 1/4 teaspoon of turmeric, 1/2 teaspoon of cumin powder, and 1/4 teaspoon of black pepper) with 2 whole wheat toast and 1 cup of green tea",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -9042,7 +9042,7 @@ export const Diets = {
             breakfast: [
               "Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
             ],
@@ -9055,7 +9055,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Upma (1 cup of semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
+            Snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
             ],
@@ -9068,7 +9068,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Cutlet (2 potatoes, 1/2 cup of beans and carrots, 1/2 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
             Lunch: [
               " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
             ],
@@ -9081,7 +9081,7 @@ export const Diets = {
             breakfast: [
               "Vegetable Poha (1 cup of beaten rice, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -9096,7 +9096,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Paratha (2 wheat flour rotis, 1/4 cup of onions, 1/4 cup of tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
             Lunch: [
               "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
             ],
@@ -9109,7 +9109,7 @@ export const Diets = {
             breakfast: [
               " Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
             ],
-            snack: [
+            Snack: [
               "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
             ],
             Lunch: [
@@ -9126,7 +9126,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9144,7 +9144,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9162,7 +9162,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with carrot and beetroot",
             ],
@@ -9178,7 +9178,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat idlis with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9196,7 +9196,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9214,7 +9214,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts and curry leaves, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -9230,7 +9230,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9251,7 +9251,7 @@ export const Diets = {
             breakfast: [
               " 1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
             ],
-            snack: ["1 bowl sprouts chaat"],
+            Snack: ["1 bowl sprouts chaat"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9264,7 +9264,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp peanut butter",
             ],
-            snack: ["1 bowl roasted makhana"],
+            Snack: ["1 bowl roasted makhana"],
             Lunch: [
               " 2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9277,7 +9277,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
             ],
-            snack: [" 1 bowl of roasted peanuts"],
+            Snack: [" 1 bowl of roasted peanuts"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9290,7 +9290,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp almond butter",
             ],
-            snack: ["1 bowl khakras"],
+            Snack: ["1 bowl khakras"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9303,7 +9303,7 @@ export const Diets = {
             breakfast: [
               "1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
             ],
-            snack: [" 1 bowl roasted makhana"],
+            Snack: [" 1 bowl roasted makhana"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9316,7 +9316,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole wheat toast with 2 tsp peanut butter",
             ],
-            snack: [" 1 bowl of roasted peanuts"],
+            Snack: [" 1 bowl of roasted peanuts"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9329,7 +9329,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
             ],
-            snack: ["1 bowl khakras"],
+            Snack: ["1 bowl khakras"],
             Lunch: [
               "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
             ],
@@ -9342,7 +9342,7 @@ export const Diets = {
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            snack: ["1 small apple"],
+            Snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -9354,7 +9354,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            snack: ["1 small orange (60 calories)"],
+            Snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -9368,7 +9368,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -9380,7 +9380,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            snack: ["1 small guava"],
+            Snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -9394,7 +9394,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            snack: ["1 small peach"],
+            Snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -9408,7 +9408,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            snack: ["1 small banana"],
+            Snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -9422,7 +9422,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            snack: ["1 small pear"],
+            Snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -9439,7 +9439,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat rotis + 1/2 cup cooked sprouts + 1 cup low fat yogurt",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
             Lunch: [
               "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal fry",
             ],
@@ -9452,7 +9452,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat parathas + 1/2 cup cooked brown rice + 1 cup of low fat curd",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
             Lunch: [
               "1 bowl of vegetable biryani + 1 cup of boiled vegetables + 1 bowl of dal tadka",
             ],
@@ -9465,7 +9465,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat pancakes + 1/2 cup cooked oats + 1 cup of low fat milk",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
             Lunch: [
               "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal makhani",
             ],
@@ -9478,7 +9478,7 @@ export const Diets = {
             breakfast: [
               "2 multigrain chapatis + 1/2 cup cooked quinoa + 1 cup of low fat lassi",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
             Lunch: [
               "1 bowl of vegetable kadhi + 1 cup of boiled vegetables + 1 bowl of dal palak",
             ],
@@ -9491,7 +9491,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat dosa + 1/2 cup cooked millet + 1 cup of low fat buttermilk",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
             Lunch: [
               "1 bowl of vegetable upma + 1 cup of boiled vegetables + 1 bowl of dal fry",
             ],
@@ -9504,7 +9504,7 @@ export const Diets = {
             breakfast: [
               "2 multigrain idlis + 1/2 cup cooked rajma + 1 cup of low fat curd",
             ],
-            snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
+            Snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
             Lunch: [
               "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal makhani",
             ],
@@ -9517,7 +9517,7 @@ export const Diets = {
             breakfast: [
               "2 whole wheat uttapam + 1/2 cup cooked barley + 1 cup of low fat lassi",
             ],
-            snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
+            Snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
             Lunch: [
               "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal tadka",
             ],
@@ -9532,7 +9532,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -9548,7 +9548,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -9564,7 +9564,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -9580,7 +9580,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -9596,7 +9596,7 @@ export const Diets = {
             Breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -9612,7 +9612,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -9628,7 +9628,7 @@ export const Diets = {
             Breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            snack: [
+            Snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -9647,7 +9647,7 @@ export const Diets = {
             breakfast: [
               " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -9660,7 +9660,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -9673,7 +9673,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: [
+            Snack: [
               " 2 tablespoons of roasted chana and a glass of buttermilk",
             ],
             Lunch: [
@@ -9688,7 +9688,7 @@ export const Diets = {
             breakfast: [
               " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: [
+            Snack: [
               " 2 tablespoons of roasted chana and a glass of buttermilk",
             ],
             Lunch: [
@@ -9703,7 +9703,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -9716,7 +9716,7 @@ export const Diets = {
             breakfast: [
               "one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -9729,7 +9729,7 @@ export const Diets = {
             breakfast: [
               "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
             ],
-            snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
             Lunch: [
               "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
             ],
@@ -9744,7 +9744,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -9762,7 +9762,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -9776,7 +9776,7 @@ export const Diets = {
             Breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -9792,7 +9792,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9808,7 +9808,7 @@ export const Diets = {
             Breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -9824,7 +9824,7 @@ export const Diets = {
             Breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -9842,7 +9842,7 @@ export const Diets = {
             Breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9859,7 +9859,7 @@ export const Diets = {
             breakfast: [
               " 2 egg omelette with spinach and grilled mushrooms with 1 cup of oats and 1 cup of fat-free yogurt",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               " 2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -9872,7 +9872,7 @@ export const Diets = {
             breakfast: [
               "2 poached eggs with spinach and low-fat cheese with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
             ],
@@ -9885,7 +9885,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -9898,7 +9898,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: ["1 cup of roasted chickpeas"],
+            Snack: ["1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -9911,7 +9911,7 @@ export const Diets = {
             breakfast: [
               "2 egg omelette with bell peppers and onions with 1 cup of oats and 1 cup of fat-free yogurt",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -9924,7 +9924,7 @@ export const Diets = {
             breakfast: [
               "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
             ],
@@ -9937,7 +9937,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
             ],
-            snack: [" 1 cup of roasted chickpeas"],
+            Snack: [" 1 cup of roasted chickpeas"],
             Lunch: [
               "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
             ],
@@ -9952,7 +9952,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9968,7 +9968,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -9982,7 +9982,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9998,7 +9998,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -10016,7 +10016,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10030,7 +10030,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10046,7 +10046,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10063,7 +10063,7 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -10073,7 +10073,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["Oatmeal with mixed berries and chopped nuts"],
-            snack: ["Carrot sticks with hummus"],
+            Snack: ["Carrot sticks with hummus"],
             Lunch: [
               "Chicken and vegetable soup with a side of whole wheat bread",
             ],
@@ -10083,7 +10083,7 @@ export const Diets = {
 
           Wednesday: {
             breakfast: ["Greek yogurt with sliced banana and granola"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled chicken breast with a side of mixed vegetables and brown rice",
             ],
@@ -10097,7 +10097,7 @@ export const Diets = {
             breakfast: [
               "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
             ],
-            snack: ["Raw vegetable sticks with hummus"],
+            Snack: ["Raw vegetable sticks with hummus"],
             Lunch: ["Tuna salad with mixed greens and cherry tomatoes"],
             Snack: ["Sliced bell pepper with guacamole"],
             Dinner: [
@@ -10109,7 +10109,7 @@ export const Diets = {
             breakfast: [
               "Poached eggs with whole wheat toast and sautéed spinach",
             ],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -10121,7 +10121,7 @@ export const Diets = {
 
           Saturday: {
             breakfast: ["Greek yogurt with mixed berries and granola"],
-            snack: ["Raw vegetable sticks with tzatziki"],
+            Snack: ["Raw vegetable sticks with tzatziki"],
             Lunch: ["Chicken tikka masala with a side of brown rice"],
             Snack: ["Sliced apple with cashew butter"],
             Dinner: [
@@ -10131,7 +10131,7 @@ export const Diets = {
 
           Sunday: {
             breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled shrimp with a side of mixed green salad and brown rice",
             ],
@@ -10146,7 +10146,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -10162,7 +10162,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -10178,7 +10178,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10196,7 +10196,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10212,7 +10212,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of roasted peanuts"],
+            Snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10228,7 +10228,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10244,7 +10244,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10265,7 +10265,7 @@ export const Diets = {
             breakfast: [
               "Omelet made with egg whites, spinach, and mushrooms, served with a slice of whole wheat toast",
             ],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: [
               "Grilled chicken breast with a side of mixed green salad and brown rice",
             ],
@@ -10275,7 +10275,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: [" Greek yogurt with berries and chopped nuts"],
-            snack: ["snackRaw vegetable sticks with tzatziki"],
+            Snack: ["snackRaw vegetable sticks with tzatziki"],
             Lunch: [
               "Chicken and vegetable soup with a side of whole wheat bread",
             ],
@@ -10287,7 +10287,7 @@ export const Diets = {
 
           Wednesday: {
             breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [" Tuna salad with mixed greens and cherry tomatoes"],
             Snack: ["Raw vegetable sticks with hummus"],
             Dinner: [
@@ -10299,7 +10299,7 @@ export const Diets = {
             breakfast: [
               "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
             ],
-            snack: [" Carrot sticks with hummus"],
+            Snack: [" Carrot sticks with hummus"],
             Lunch: [
               "Grilled chicken kebab with a side of mixed green salad and brown rice",
             ],
@@ -10309,7 +10309,7 @@ export const Diets = {
 
           Friday: {
             breakfast: ["Oatmeal with sliced banana and cinnamon"],
-            snack: ["Raw vegetable sticks with tzatziki"],
+            Snack: ["Raw vegetable sticks with tzatziki"],
             Lunch: ["Chicken tikka masala with a side of brown rice"],
             Snack: ["Sliced cucumber with guacamole"],
             Dinner: [
@@ -10319,7 +10319,7 @@ export const Diets = {
 
           Saturday: {
             breakfast: [" Greek yogurt with mixed berries and granola"],
-            snack: ["Handful of almonds"],
+            Snack: ["Handful of almonds"],
             Lunch: ["Chicken salad with mixed greens and cherry tomatoes"],
             Snack: ["Apple slices with cashew butter"],
             Dinner: [
@@ -10329,7 +10329,7 @@ export const Diets = {
 
           Sunday: {
             breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            snack: ["Handful of walnuts"],
+            Snack: ["Handful of walnuts"],
             Lunch: [
               "Grilled shrimp with a side of mixed green salad and brown rice",
             ],
@@ -10344,7 +10344,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10360,7 +10360,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10378,7 +10378,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -10396,7 +10396,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -10412,7 +10412,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10430,7 +10430,7 @@ export const Diets = {
             Breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            snack: [
+            Snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -10448,7 +10448,7 @@ export const Diets = {
             Breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],

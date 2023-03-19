@@ -53,31 +53,31 @@ const Diet = ({ route }) => {
             <Card style={{ margin: 10 }} mode="outlined">
               <Card.Title title="Breakfast" />
               <Card.Content>
-                {diets[m].breakfast.map((j) => (
+                {diets[m]?.breakfast?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
                 ))}
               </Card.Content>
               <Card.Title title="snack" />
               <Card.Content>
-                {diets[m].snack.map((j) => (
+                {diets[m]?.snack?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
                 ))}
               </Card.Content>
               <Card.Title title="Lunch" />
               <Card.Content>
-                {diets[m].Lunch.map((j) => (
+                {diets[m]?.Lunch?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
                 ))}
               </Card.Content>
               <Card.Title title="Snack" />
               <Card.Content>
-                {diets[m].Snack.map((j) => (
+                {diets[m]?.Snack?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
                 ))}
               </Card.Content>
               <Card.Title title="Dinner" />
               <Card.Content>
-                {diets[m].Dinner.map((j) => (
+                {diets[m]?.Dinner?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
                 ))}
               </Card.Content>
