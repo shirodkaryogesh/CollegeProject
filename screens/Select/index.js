@@ -9,6 +9,7 @@ const Select = ({ route }) => {
   const { age, height, weight, gender } = route.params;
   const { navigate } = useNavigation();
   const [activityLevel, setActivityLevel] = React.useState(null);
+  const [level, setLevel] = React.useState(null);
   const [foodType, setFoodType] = React.useState(null);
   const [totalCalories, setTotalCalories] = React.useState(0);
 
@@ -38,25 +39,36 @@ const Select = ({ route }) => {
         </RadioButton.Group>
 
         {activityLevel && (
-          <View>
-            <RadioButton.Group
-              onValueChange={(value) => setFoodType(value)}
-              value={foodType}
-            >
-              <RadioButton.Item label="veg" value="veg" />
-              <RadioButton.Item label="nonveg" value="nonVeg" />
-            </RadioButton.Group>
-          </View>
+          <>
+            <Card>
+              <RadioButton.Group
+                onValueChange={(value) => setFoodType(value)}
+                value={foodType}
+              >
+                <RadioButton.Item label="veg" value="veg" />
+                <RadioButton.Item label="nonveg" value="nonVeg" />
+              </RadioButton.Group>
+            </Card>
+            <Card style={{ marginTop: 10 }}>
+              <RadioButton.Group
+                onValueChange={(value) => setLevel(value)}
+                value={level}
+              >
+                <RadioButton.Item label="level 1" value={1} />
+                <RadioButton.Item label="level 2" value={2} />
+              </RadioButton.Group>
+            </Card>
+          </>
         )}
       </View>
 
-      {totalCalories ? (
+      {totalCalories && level ? (
         <Button
           onPress={() =>
             navigate("Diet", {
               totalCalories,
               gender,
-              level: 1,
+              level,
               foodType,
             })
           }
