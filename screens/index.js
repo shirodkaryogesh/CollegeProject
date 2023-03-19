@@ -18,7 +18,11 @@ export default function Screens() {
         <Stack.Screen name="SignIn" component={SignIn} />
         <Stack.Screen name="Signup" component={Signup} />
         <Stack.Screen name="HomePage" component={HomePage} />
-        <Stack.Screen name="Select" component={Select} />
+        <Stack.Screen
+          name="Select"
+          component={Select}
+          options={{ headerTitle: "Select Activity Level" }}
+        />
         <Stack.Screen name="Category" component={Category} />
         <Stack.Screen name="Diet" component={Diet} />
       </Stack.Navigator>
