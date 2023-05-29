@@ -8,6 +8,7 @@ import Select from "./Select";
 import HomePage from "./HomePage";
 import Category from "./Category";
 import Diet from "./Diet";
+// import Customize from "./Customize";
 
 const Stack = createNativeStackNavigator();
 

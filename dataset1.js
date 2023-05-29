@@ -4,9 +4,7 @@ export const Diets = {
       1800: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain bread, and 1 small apple",
-            ],
+            breakfast: ["Oats upma with chicken"],
             snack: ["1/4 cup of unsalted almonds"],
             Lunch: [
               "Grilled chicken breast with 1/2 cup of quinoa and a side salad (lettuce, tomato, cucumber, and olive oil dressing)",
@@ -17,7 +15,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: ["2 scrambled eggs with spinach and 1 small orange"],
+            breakfast: ["2 boiled eggs, 1 whole wheat toast, 1 small apple"],
             snack: ["1/2 cup of sliced cucumbers with hummus"],
             Lunch: [
               "Turkey breast wrap with whole-grain tortilla, lettuce, tomato, and mustard, with 1 small banana",
@@ -29,7 +27,7 @@ export const Diets = {
           },
           Wednesday: {
             breakfast: [
-              "Omelet with 1/2 cup of mixed vegetables (spinach, bell peppers, and onions) and 1 small apple",
+              "Chicken sandwich made with whole wheat bread and vegetables",
             ],
             snack: ["1/4 cup of unsalted cashews"],
             Lunch: [
@@ -41,9 +39,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain bread, and 1 small orange",
-            ],
+            breakfast: ["Scrambled tofu with whole wheat toast"],
             snack: ["1/2 cup of sliced bell peppers with hummus"],
             Lunch: [
               "Grilled chicken breast with 1/2 cup of brown rice and a side salad (lettuce, tomato, cucumber, and olive oil dressing)",
@@ -54,9 +50,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "Lamb kebab with 1 cup of roasted vegetables (eggplant, zucchini, and bell peppers) and 1/2 cup of quinoa",
-            ],
+            breakfast: ["Scrambled tofu with whole wheat toast"],
             snack: ["1/4 cup of unsalted almonds"],
             Lunch: [
               "Chicken salad with lettuce, cucumber, tomato, and olive oil dressing, with 1 small banana",
@@ -67,9 +61,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain bread, and 1 small orange",
-            ],
+            breakfast: ["Oats upma with chicken "],
             snack: ["1/2 cup of sliced cucumbers with hummus"],
             Lunch: [
               "Turkey burger with whole-grain bun, lettuce, tomato, and mustard, with 1 small banana",
@@ -80,9 +72,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "Omelet with 1/2 cup of mixed vegetables (spinach, bell peppers, and onions) and 1 small apple",
-            ],
+            breakfast: ["Scrambled paneer with whole wheat toast"],
             snack: [" 1/4 cup of unsalted cashews"],
             Lunch: [
               "Grilled chicken breast with 1/2 cup of quinoa and a side salad (lettuce, tomato, cucumber, and olive oil dressing)",
@@ -95,7 +85,9 @@ export const Diets = {
         },
         veg: {
           Monday: {
-            breakfast: ["2 boiled eggs, 1 whole wheat toast, 1 small apple"],
+            breakfast: [
+              "Scrambled panner with whole wheat toast, 1 small apple",
+            ],
             snack: ["1 small bowl of unsalted peanuts"],
             Lunch: [
               "1 cup brown rice, 1 cup mixed vegetables (broccoli, cauliflower, carrot, beans), 1 small bowl of lentils",
@@ -115,12 +107,12 @@ export const Diets = {
             ],
             Snack: ["1 cup cherry tomatoes with 1 ounce of low-fat cheese"],
             Dinner: [
-              "1 cup mixed vegetables curry (eggplant, cauliflower, tomato, onion), 1 small bowl of brown rice",
+              "1 cup mixed vegetables curry (cauliflower, tomato, onion), 1 small bowl of brown rice",
             ],
           },
           Wednesday: {
             breakfast: [
-              "1 cup vegetable omelette (spinach, mushroom, tomato), 1 small whole wheat toast",
+              "1 bowl vegetables (spinach, mushroom, tomato), 1 small whole wheat toast",
             ],
             snack: ["1 small bowl of strawberries"],
             Lunch: [
@@ -188,9 +180,7 @@ export const Diets = {
       1900: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 small whole wheat parantha, 1 small bowl of low-fat yogurt, 1 small apple",
-            ],
+            breakfast: ["Chicken sausage and veggie hash"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled fish with mixed vegetable salad and 1/2 cup of brown rice",
@@ -201,9 +191,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: [
-              "2 scrambled eggs, 1 small bowl of low-fat yogurt, 1 small pear",
-            ],
+            breakfast: ["Smoked salmon and cream cheese on whole grain toast"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled chicken breast with mixed green salad and 1/2 cup of quinoa",
@@ -214,9 +202,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              " 2 boiled eggs, 1 small whole wheat parantha, 1 small bowl of low-fat yogurt, 1 small banana ",
-            ],
+            breakfast: ["Grilled chicken and avocado toast"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Chicken stir-fry with mixed vegetables and 1/2 cup of brown rice",
@@ -227,9 +213,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "2 scrambled eggs, 1 small bowl of low-fat yogurt, 1 small orange",
-            ],
+            breakfast: ["Smoked salmon and cucumber on rye bread"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled chicken breast with mixed vegetable salad and 1/2 cup of brown rice",
@@ -240,9 +224,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 1 small whole wheat parantha, 1 small bowl of low-fat yogurt, 1 small apple",
-            ],
+            breakfast: ["Veggie omelette"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled chicken breast with mixed green salad and 1/2 cup of brown rice",
@@ -253,9 +235,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "2 scrambled eggs, 1 small bowl of low-fat yogurt, 1 small pear",
-            ],
+            breakfast: ["Breakfast wrap with chicken and cheese"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled fish with mixed vegetable salad and 1/2 cup of quinoa",
@@ -266,9 +246,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 1 small whole wheat parantha, 1 small bowl of low-fat yogurt, 1 small banana",
-            ],
+            breakfast: ["chicken sausage  and cheese sandwich"],
             snack: ["1 small serving of roasted chicken"],
             Lunch: [
               "Grilled chicken breast with mixed green salad and 1/2 cup of quinoa",
@@ -382,9 +360,7 @@ export const Diets = {
       2000: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 egg omelet made with spinach, mushroom, and onions,1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Sausage and veggie frittata"],
             snack: ["1 small bowl of mixed fruits (kiwi, papaya, and grapes)"],
             Lunch: [
               "1 cup of brown rice,1 cup of chicken curry (made with tomatoes, onions, and spices),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -395,9 +371,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: [
-              "2 egg omelet made with capsicum, onion, and mushrooms1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Grilled chicken and veggie skewers"],
             snack: ["1 small bowl of mixed fruits (banana, apple, and orange)"],
             Lunch: [
               "1 cup of brown rice,1 cup of chicken stew (made with carrots, beans, and potatoes),1 small bowl of cucumber, tomato, and onion salad1 small bowl of curd (low-fat)",
@@ -410,9 +384,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              "2 egg omelet made with spinach and mushroom1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Salad with whole grain crackers"],
             snack: ["1 small bowl of mixed fruits (kiwi, papaya, and grapes)"],
             Lunch: [
               "1 cup of brown rice,1 cup of fish curry (made with tomatoes, onions, and spices),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -423,9 +395,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "2 egg omelet made with capsicum and onion,1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Breakfast quesadilla with turkey and cheese"],
             snack: ["1 small bowl of mixed fruits (banana, apple, and orange)"],
             Lunch: [
               "1 cup of brown rice,1 cup of mutton stew (made with carrots, beans, and potatoes),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -436,7 +406,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: ["2 boiled eggs,1 small bowl of curd (low-fat)"],
+            breakfast: ["Chicken and veggie breakfast sandwich"],
             snack: ["1 small bowl of mixed fruits (kiwi, papaya, and grapes)"],
             Lunch: [
               "1 cup of brown rice,1 cup of chicken curry (made with tomatoes, onions, and spices),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -449,9 +419,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "2 egg omelet made with spinach and mushroom,1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Veggie breakfast bowl"],
             snack: ["1 small bowl of mixed fruits (banana, apple, and orange)"],
             Lunch: [
               "1 cup of brown rice,1 cup of mutton curry (made with tomatoes, onions, and spices),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -462,9 +430,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 egg omelet made with capsicum and onion,1 small bowl of curd (low-fat)",
-            ],
+            breakfast: ["Grilled chicken and avocado breakfast bowl"],
             snack: ["1 small bowl of mixed fruits (kiwi, papaya, and grapes)"],
             Lunch: [
               "1 cup of brown rice,1 cup of fish curry (made with tomatoes, onions, and spices),1 small bowl of cucumber, tomato, and onion salad,1 small bowl of curd (low-fat)",
@@ -580,9 +546,7 @@ export const Diets = {
       2100: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole wheat bread (toasted), and 1 cup of green tea",
-            ],
+            breakfast: ["Tuna melt on whole grain toast"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of brown rice, 1 cup of chicken curry (made with non-starchy vegetables like spinach, carrots, and bell peppers), and 1 bowl of mixed vegetable salad",
@@ -595,9 +559,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: [
-              " 2 scrambled eggs with 1 slice of whole wheat bread (toasted) and 1 cup of green tea",
-            ],
+            breakfast: ["Veggie breakfast skillet"],
             snack: ["1 small pear"],
             Lunch: [
               "2 chapatis made with whole wheat flour, 1 cup of mixed vegetable curry (made with non-starchy vegetables like cauliflower, carrots, capsicum, etc.) and 1 bowl of mixed vegetable salad",
@@ -610,9 +572,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole wheat bread (toasted), and 1 cup of green tea",
-            ],
+            breakfast: ["Chicken and cheese breakfast wrap"],
             snack: [" 1 small orange"],
             Lunch: [
               "1 cup of brown rice, 1 cup of lamb curry (made with non-starchy vegetables like spinach, carrots, and bell peppers), and 1 bowl of mixed vegetable salad",
@@ -625,9 +585,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "2 scrambled eggs with 1 slice of whole wheat bread (toasted) and 1 cup of green tea",
-            ],
+            breakfast: ["Smoked salmon and cream cheese"],
             snack: ["1 small peach"],
             Lunch: [
               " 2 chapatis made with whole wheat flour, 1 cup of mixed vegetable curry (made with non-starchy vegetables like cauliflower, carrots, capsicum, etc.), and 1 bowl of mixed vegetable salad",
@@ -640,9 +598,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole wheat bread (toasted), and 1 cup of green tea",
-            ],
+            breakfast: ["Breakfast sandwich with turkey and cheese"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of brown rice, 1 cup of fish curry (made with non-starchy vegetables like spinach, carrots, and bell peppers), and 1 bowl of mixed vegetable salad",
@@ -655,24 +611,20 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "2 scrambled eggs with 1 slice of whole wheat bread (toasted) and 1 cup of green tea",
-            ],
+            breakfast: ["Sausage and veggie breakfast burrito"],
             snack: ["1 small orange"],
             Lunch: [
               "2 chapatis made with whole wheat flour, 1 cup of mixed vegetable curry (made with non-starchy vegetables like cauliflower, carrots, capsicum, etc.) and 1 bowl of mixed vegetable salad",
             ],
             Snack: [
-              "1 cup of low-fat milk with 1 small piece of dark chocolate (70% cocoa or higher)",
+              "1 cup of low-fat milk with 1 small piece of dark chocolate",
             ],
             Dinner: [
               "1 cup of brown rice, 1 cup of mutton curry (made with non-starchy vegetables like spinach, carrots, and bell peppers), and 1 bowl of mixed vegetable salad",
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole wheat bread (toasted), and 1 cup of green tea",
-            ],
+            breakfast: ["Turkey and cheese breakfast sandwich"],
             snack: [" 1 small apple"],
             Lunch: [
               "1 cup of brown rice, 1 cup of fish soup (made with non-starchy vegetables like spinach, carrots, and bell peppers), and 1 bowl of mixed vegetable salad",
@@ -798,9 +750,7 @@ export const Diets = {
       2200: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, and 1 cup of green tea",
-            ],
+            breakfast: ["Grilled chicken and veggie omelette"],
             snack: [
               "1 small bowl of mixed berries (strawberries, raspberries, and blueberries)",
             ],
@@ -830,9 +780,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, and 1 cup of green tea",
-            ],
+            breakfast: ["Salad with crackers"],
             snack: [
               "1 small bowl of mixed berries (strawberries, raspberries, and blueberries)",
             ],
@@ -847,9 +795,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "1 small bowl of oats porridge with skimmed milk, cinnamon, and 1 tbsp of chopped almonds, and 1 cup of green tea",
-            ],
+            breakfast: ["Masala omelette with chicken keema"],
             snack: ["1 small apple"],
             Lunch: [
               "2 small rotis made with whole wheat flour, 1 cup of prawn curry (made with low-fat yogurt and non-starchy vegetables like onion, tomato, and capsicum), and 1 bowl of mixed vegetable salad",
@@ -862,9 +808,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, and 1 cup of green tea",
-            ],
+            breakfast: ["Chicken tikka paratha roll"],
             snack: [
               "1 small bowl of mixed berries (strawberries, raspberries, and blueberries)",
             ],
@@ -879,9 +823,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 small bowl of oats porridge with skimmed milk, cinnamon, and 1 tbsp of chopped almonds, and 1 cup of green tea",
-            ],
+            breakfast: ["Chicken seekh kabab with mint chutney"],
             snack: ["1 small apple"],
             Lunch: [
               "2 small rotis made with whole wheat flour, 1 cup of chicken kebab (grilled chicken marinated with low-fat yogurt and spices), and 1 bowl of mixed vegetable salad",
@@ -894,9 +836,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, and 1 cup of green tea",
-            ],
+            breakfast: ["Chicken chilla (Indian-style savoury pancake)"],
             snack: [
               " 1 small bowl of mixed berries (strawberries, raspberries, and blueberries)",
             ],
@@ -1020,9 +960,7 @@ export const Diets = {
       2300: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, 1 cup of green tea.",
-            ],
+            breakfast: ["Mutton kheema with whole wheat toast"],
             snack: [" 1 medium apple"],
             Lunch: [
               "Grilled chicken breast (150g), 1 cup of brown rice, 1 cup of stir-fried vegetables",
@@ -1033,9 +971,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: [
-              "1 boiled egg, 1 slice of whole-grain toast, 1 cup of low-fat milk",
-            ],
+            breakfast: ["Spicy chicken and capsicum sandwich"],
             snack: [" 1 small bowl of unsalted mixed nuts"],
             Lunch: [
               "1 grilled chicken breast (150g), 1 cup of lentil soup, 1 cup of mixed vegetables",
@@ -1046,9 +982,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              " 2 boiled eggs, 1 slice of whole-grain toast, 1 cup of green tea",
-            ],
+            breakfast: ["Chicken and vegetable stew with whole wheat bread"],
             snack: ["1 medium apple"],
             Lunch: [
               "Grilled fish (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -1059,9 +993,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "1 boiled egg, 1 slice of whole-grain toast, 1 cup of low-fat milk",
-            ],
+            breakfast: ["Chicken keema paratha"],
             snack: ["1 small bowl of unsalted mixed nuts."],
             Lunch: [
               "1 grilled chicken breast (150g), 1 cup of lentil soup, 1 cup of mixed vegetables",
@@ -1072,9 +1004,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, 1 cup of green tea",
-            ],
+            breakfast: ["Grilled tandoori chicken with mint chutney"],
             snack: ["1 medium apple"],
             Lunch: [
               "Grilled fish (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -1085,9 +1015,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 boiled egg, 1 slice of whole-grain toast, 1 cup of low-fat milk",
-            ],
+            breakfast: ["Mutton samosa with mint chutney"],
             snack: ["1 small bowl of unsalted mixed nuts"],
             Lunch: [
               "1 grilled chicken breast (150g), 1 cup of lentil soup, 1 cup of mixed vegetables",
@@ -1098,9 +1026,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, 1 cup of green tea",
-            ],
+            breakfast: ["Spicy chicken and vegetable soup"],
             snack: ["1 medium apple"],
             Lunch: [
               "Grilled fish (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -1220,9 +1146,7 @@ export const Diets = {
       2400: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 scrambled eggs cooked in 1 tsp of olive oil, 1 slice of whole grain toast, and 1 cup of black coffee",
-            ],
+            breakfast: ["Chicken seekh kabab with tomato chutney"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of brown rice, 1 cup of chicken curry cooked with mixed vegetables, and 1 small bowl of low-fat curd",
@@ -1233,9 +1157,7 @@ export const Diets = {
             ],
           },
           Tuesday: {
-            breakfast: [
-              "2 boiled eggs, 2 small whole wheat bread slices, and 1 cup of green tea",
-            ],
+            breakfast: ["Spicy mutton and vegetable soup"],
             snack: ["1 small pear"],
             Lunch: [
               "1 cup of quinoa, 1 cup of grilled fish, and 1 small bowl of mixed vegetable salad",
@@ -1263,9 +1185,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "2 scrambled eggs cooked in 1 tsp of olive oil, 1 slice of whole grain toast, and 1 cup of black coffee",
-            ],
+            breakfast: ["Grilled chicken sandwich with mint chutney"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of quinoa, 1 cup of grilled fish, and 1 small bowl of mixed vegetable salad",
@@ -1276,9 +1196,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 2 small whole wheat bread slices, and 1 cup of green tea",
-            ],
+            breakfast: ["Mutton keema paratha"],
             snack: ["1 small pear"],
             Lunch: [
               "1 cup of brown rice, 1 cup of mixed vegetable and chicken curry, and 1 small bowl of low-fat curd",
@@ -1291,9 +1209,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "2 small whole wheat bread slices with 2 slices of low-fat cheese, and 1 cup of black coffee",
-            ],
+            breakfast: ["Spicy chicken sausage with whole wheat toast"],
             snack: ["1 small orange"],
             Lunch: [
               "1 cup of quinoa, 1 cup of grilled chicken, and 1 small bowl of mixed vegetable salad",
@@ -1306,9 +1222,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 scrambled eggs cooked in 1 tsp of olive oil, 1 slice of whole grain toast, and 1 cup of black coffee",
-            ],
+            breakfast: ["Grilled chicken sandwich with mint chutney"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of brown rice, 1 cup of mixed vegetable and fish curry, and 1 small bowl of low-fat curd",
@@ -1417,7 +1331,7 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 2 egg omelet with spinach and mushroom, 1 slice of whole wheat bread, and a cup of unsweetened tea or coffee.",
+              "Chicken and vegetable upma (Indian-style savoury porridge)",
             ],
             snack: ["  1 small apple and 1 ounce of unsalted almonds"],
             Lunch: [
@@ -1430,9 +1344,7 @@ export const Diets = {
           },
 
           Tuesday: {
-            breakfast: [
-              "1 cup of low-fat Greek yogurt, 1/2 cup of fresh berries, and 1 tablespoon of chia seeds",
-            ],
+            breakfast: ["Mutton keema with whole wheat bread"],
             snack: [" 1 small pear and 1 ounce of unsalted pistachios"],
             Lunch: [
               "4 ounces of grilled chicken breast, 1/2 cup of cooked black beans, 1/2 cup of cooked quinoa, and a mixed green salad with vinaigrette dressing",
@@ -1444,9 +1356,7 @@ export const Diets = {
           },
 
           Wednesday: {
-            breakfast: [
-              " 2 scrambled eggs with 1/2 cup of sautéed spinach and 1 slice of whole wheat toast, and a cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Mutton seekh kabab with mint chutney"],
             snack: ["1 small orange and 1 ounce of unsalted cashews"],
             Lunch: [
               "4 ounces of baked chicken breast, 1/2 cup of cooked brown rice, 1 cup of steamed mixed vegetables (carrots, green beans, and mushrooms), and a glass of buttermilk",
@@ -1472,9 +1382,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 egg omelet with diced tomato and bell pepper, 1 slice of whole wheat toast, and a cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Chicken paratha roll"],
             snack: ["1 small orange and 1 ounce of unsalted almonds"],
             Lunch: [
               "4 ounces of baked chicken breast, 1/2 cup of cooked sweet potatoes, 1 cup of steamed green beans, and a glass of buttermilk",
@@ -1500,9 +1408,7 @@ export const Diets = {
           },
 
           Sunday: {
-            breakfast: [
-              "2 scrambled eggs with 1/2 cup of sautéed spinach and 1 slice of whole wheat toast, and a cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Chicken tikka and vegetable sandwich"],
             snack: ["1 small orange and 1 ounce of unsalted cashews"],
             Lunch: [
               "4 ounces of grilled chicken breast, 1/2 cup of cooked brown rice, 1 cup of steamed mixed vegetables (broccoli, cauliflower, and carrots), and a glass of buttermilk",
@@ -1616,9 +1522,7 @@ export const Diets = {
       2600: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 small bowl of sautéed spinach and mushrooms, and 1 small whole wheat toast",
-            ],
+            breakfast: ["Mutton samosa chaat"],
             snack: ["1 small pear"],
             Lunch: [
               "1 cup of cooked brown rice, 1 cup of mixed vegetable and chicken curry, and 1 small bowl of mixed vegetable salad",
@@ -1630,7 +1534,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: [
-              "1 cup of oatmeal with low-fat milk, 1 small bowl of mixed berries, and 1 small boiled egg",
+              "1 cup of oatmeal with low-fat milk, 1 small bowl of mixed berries",
             ],
             snack: ["1 small orange"],
             Lunch: [
@@ -1643,7 +1547,7 @@ export const Diets = {
           },
           Wednesday: {
             breakfast: [
-              " 1 small bowl of vegetable and egg white omelette, 1 small whole wheat toast, and 1 small bowl of mixed fruit",
+              " 1 small bowl of vegetables, 1 small whole wheat toast, and 1 small bowl of mixed fruit",
             ],
             snack: ["1 small apple"],
             Lunch: [
@@ -1655,9 +1559,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "1 small bowl of mixed vegetable and egg white scramble, 2 small whole wheat chapatis, and 1 small bowl of mixed fruit",
-            ],
+            breakfast: ["Grilled chicken and vegetable sandwich"],
             snack: ["1 small peach"],
             Lunch: [
               "1 cup of cooked brown rice, 1 cup of mixed vegetable and fish curry, and 1 small bowl of mixed vegetable salad",
@@ -1668,9 +1570,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 small whole wheat idlis with 1 cup of coconut chutney and 1 small bowl of sambar, and 1 cup of black coffee",
-            ],
+            breakfast: ["Chicken and vegetable poha"],
             snack: ["1 small pear"],
             Lunch: [
               "2 small whole wheat chapatis, 1 cup of mixed vegetable and mutton curry, and 1 small bowl of mixed vegetable salad",
@@ -1681,9 +1581,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 small bowl of mixed vegetable and egg white scramble, 2 small whole wheat chapatis, and 1 small bowl of mixed fruit",
-            ],
+            breakfast: ["mutton and capsicum omelette"],
             snack: ["1 small apple"],
             Lunch: [
               "1 cup of cooked brown rice, 1 cup of mixed vegetable and chicken stir-fry, and 1 small bowl of mixed vegetable salad",
@@ -1694,9 +1592,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "1 small bowl of vegetable and egg white omelette, 1 small whole wheat toast, and 1 small bowl of mixed fruit",
-            ],
+            breakfast: ["Chicken and vegetable cutlets with mint chutney"],
             snack: ["1 small orange"],
             Lunch: [
               "2 small whole wheat chapatis, 1 cup of mixed vegetable and fish curry, and 1 small bowl of mixed vegetable salad",
@@ -1804,9 +1700,7 @@ export const Diets = {
       2700: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "1 egg white omelette with spinach and mushroom, 2 small whole wheat bread slices, and 1 small bowl of mixed fruit",
-            ],
+            breakfast: ["Chicken and vegetable stir-fry"],
             snack: ["1 small bowl of mixed nuts"],
             Lunch: [
               "1 small bowl of chicken curry with mixed vegetables, 2 small whole wheat chapatis, and 1 small bowl of mixed vegetable salad",
@@ -1831,7 +1725,7 @@ export const Diets = {
           },
           Wednesday: {
             breakfast: [
-              "2 small whole wheat bread slices with 2 boiled egg whites and 1 small bowl of mixed vegetable salad",
+              "2 small whole wheat bread slices with mutton and 1 small bowl of mixed vegetable salad",
             ],
             snack: ["1 small bowl of mixed nuts"],
             Lunch: [
@@ -1857,7 +1751,7 @@ export const Diets = {
           },
           Friday: {
             breakfast: [
-              "2 small whole wheat bread slices with 1 small bowl of low-fat paneer (cottage cheese) bhurji, and 1 small bowl of mixed fruit",
+              "Chicken and vegetable uttapam (Indian-style thick savoury pancake)",
             ],
             snack: ["1 small apple"],
             Lunch: [
@@ -1869,9 +1763,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 cup of Greek yogurt, 1/4 cup of mixed nuts (almonds and walnuts), 1 small banana.",
-            ],
+            breakfast: ["Chicken and vegetable stew with whole wheat bread"],
             snack: ["1 small orange."],
             Lunch: [
               "1 serving of chicken tikka, 1 cup of quinoa, 1 cup of mixed vegetables (mushrooms, onions, and spinach).",
@@ -1882,9 +1774,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain bread, 1 cup of unsweetened black coffee",
-            ],
+            breakfast: ["Mutton keema and vegetable upma"],
             snack: ["1 small apple"],
             Lunch: [
               "1 serving of grilled fish, 1 cup of quinoa, 1 cup of mixed vegetables (broccoli, carrots, and green beans)",
@@ -1988,9 +1878,7 @@ export const Diets = {
       2800: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "  2 boiled eggs, 2 slices of whole wheat toast, 1 cup of skimmed milk.",
-            ],
+            breakfast: ["Grilled chicken and vegetable wrap"],
             snack: [" 1 apple"],
             Lunch: [
               " Grilled chicken breast (150g), 1 cup of brown rice, 1 cup of mixed vegetables (carrots, broccoli, cauliflower, and beans)",
@@ -2014,9 +1902,7 @@ export const Diets = {
           },
 
           Wednesday: {
-            breakfast: [
-              " 2 boiled eggs, 2 slices of whole wheat toast, 1 cup of skimmed milk",
-            ],
+            breakfast: ["2 slices of whole wheat toast, 1 cup of skimmed milk"],
             snack: ["1 orange"],
             Lunch: [
               " Grilled chicken breast (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -2038,9 +1924,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, 1 cup of skimmed milk",
-            ],
+            breakfast: ["Masala Omelette Sandwich with chutney"],
             snack: ["1 small pear"],
             Lunch: [
               " Grilled chicken breast (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -2052,7 +1936,7 @@ export const Diets = {
           },
 
           Saturday: {
-            breakfast: ["1 cup of oatmeal with nuts, 1 cup of skimmed milk"],
+            breakfast: ["Chicken Kheema Paratha with yogurt"],
             snack: ["1 small banana"],
             Lunch: [
               " Tandoori chicken (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -2064,9 +1948,7 @@ export const Diets = {
           },
 
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 2 slices of whole wheat toast, 1 cup of skimmed milk",
-            ],
+            breakfast: ["Mutton Keema Idli"],
             snack: ["1 small orange"],
             Lunch: [
               "Grilled chicken breast (150g), 1 cup of brown rice, 1 cup of mixed vegetables",
@@ -2198,9 +2080,7 @@ export const Diets = {
       2900: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs,1 slice of whole wheat toast,1 small bowl of sprouts salad",
-            ],
+            breakfast: ["Mutton Kheema Poha with lemon wedges"],
             snack: [
               "1 small bowl of mixed nuts (almonds, cashews, and walnuts)",
             ],
@@ -2214,7 +2094,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: [
-              "1 small bowl of oatmeal with skimmed milk and sliced almonds,1 boiled egg",
+              "1 small bowl of oatmeal with skimmed milk and sliced almonds",
             ],
             snack: ["1 small bowl of sliced apples with almond butter"],
             Lunch: [
@@ -2226,9 +2106,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              "1 small bowl of scrambled eggs with spinach and mushrooms,1 slice of whole wheat toast",
-            ],
+            breakfast: ["Keema Pav with buttered pao buns"],
             snack: ["1 small bowl of sliced carrots with hummus dip"],
             Lunch: [
               "1 small bowl of mutton keema,1 small bowl of brown rice,1 cup of mixed vegetable salad",
@@ -2254,9 +2132,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "1 small bowl of quinoa and vegetable upma,1 boiled egg",
-            ],
+            breakfast: ["1 small bowl of quinoa and vegetable upma"],
             snack: ["1 small bowl of sliced apples with almond butter"],
             Lunch: [
               "1 small bowl of mutton rogan josh,1 small bowl of quinoa,1 cup of mixed vegetable salad",
@@ -2267,9 +2143,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 small bowl of scrambled eggs with spinach and mushrooms,1 slice of whole wheat toast",
-            ],
+            breakfast: ["Chicken paratha with chutney"],
             snack: [
               "1 small bowl of mixed nuts (almonds, cashews, and walnuts)",
             ],
@@ -2392,9 +2266,7 @@ export const Diets = {
       3000: {
         nonVeg: {
           Monday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Keema Paratha with yogurt or raita"],
             snack: ["1 apple and a handful of almonds"],
             Lunch: [
               "Grilled chicken breast, 1 cup of brown rice, 1 cup of mixed vegetables, and 1 small bowl of dal",
@@ -2406,7 +2278,7 @@ export const Diets = {
           },
           Tuesday: {
             breakfast: [
-              "1 vegetable omelet made with 2 eggs and mixed vegetables, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
+              "Vegetable omelet and mixed vegetables, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
             ],
             snack: ["1 pear and a handful of walnuts"],
             Lunch: [
@@ -2418,9 +2290,7 @@ export const Diets = {
             ],
           },
           Wednesday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Chicken Chana Masala with puri or bhature"],
             snack: ["1 orange and a handful of peanuts"],
             Lunch: [
               "Grilled chicken breast, 1 cup of brown rice, 1 small bowl of mixed vegetables, and 1 small bowl of dal",
@@ -2431,9 +2301,7 @@ export const Diets = {
             ],
           },
           Thursday: {
-            breakfast: [
-              "1 vegetable omelet made with 2 eggs and mixed vegetables, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Masala Dosa with Chicken Curry"],
             snack: ["1 banana and a handful of almonds"],
             Lunch: [
               "1 small bowl of chicken curry, 1 cup of brown rice, 1 small bowl of mixed vegetables, and 1 small bowl of dal",
@@ -2444,9 +2312,7 @@ export const Diets = {
             ],
           },
           Friday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Mutton Paya Soup with Naan"],
             snack: ["1 apple and a handful of walnuts"],
             Lunch: [
               "Grilled chicken breast, 1 cup of brown rice, 1 small bowl of mixed vegetables, and 1 small bowl of dal",
@@ -2457,9 +2323,7 @@ export const Diets = {
             ],
           },
           Saturday: {
-            breakfast: [
-              "1 vegetable omelet made with 2 eggs and mixed vegetables, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Chicken Cutlet with Appam"],
             snack: ["1 pear and a handful of peanuts"],
             Lunch: [
               "1 small bowl of chicken curry, 1 cup of brown rice, 1 small bowl of mixed vegetables, and 1 small bowl of dal",
@@ -2470,9 +2334,7 @@ export const Diets = {
             ],
           },
           Sunday: {
-            breakfast: [
-              "2 boiled eggs, 1 slice of whole-grain toast, and 1 cup of unsweetened tea or coffee",
-            ],
+            breakfast: ["Fish Curry with Idiyappam "],
             snack: ["1 orange and a handful of almonds"],
             Lunch: [
               "Grilled chicken breast, 1 cup of brown rice, 1 small bowl of mixed vegetables, and 1 small bowl of dal",
@@ -2565,100 +2427,100 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelette with spinach, tomato, garlic and onion",
+              " 1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 290",
             ],
-            Snack: ["2 poha cutlets"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Tuesday: {
             breakfast: [
-              " 2 slices of whole wheat toast with 2 tablespoons of peanut butter ",
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240",
             ],
-            Snack: ["1 bowl of vegetable upma "],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              " 1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of multigrain bread with 2 tablespoons of hummus",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: ["2 vegetable vadas"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Thursday: {
             breakfast: [
-              " 2 egg omelette with spinach, tomato, garlic and onion",
+              " 1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260",
             ],
-            Snack: ["2 poha cutlets"],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories "],
             Lunch: [
-              " cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of multigrain bread with 2 tablespoons of hummus",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310",
             ],
-            Snack: [" 1 bowl of vegetable upma"],
+            snack: ["1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: [" 1 bowl of vegetable soup "],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 egg omelette with spinach, tomato, garlic and onion ",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: ["2 vegetable vadas"],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
+              " 1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tablespoons of peanut butter",
+              "2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270 ",
             ],
-            Snack: [" 1 bowl of vegetable upma"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
         },
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            Snack: ["1 small apple"],
+            snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -2670,7 +2532,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            Snack: ["1 small orange (60 calories)"],
+            snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -2684,7 +2546,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -2696,7 +2558,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            Snack: ["1 small guava"],
+            snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -2710,7 +2572,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            Snack: ["1 small peach"],
+            snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -2724,7 +2586,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            Snack: ["1 small banana"],
+            snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -2738,7 +2600,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -2753,93 +2615,93 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast ",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: [" 1 cup of sprouts "],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
             Lunch: [
-              " 3-4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: [" 1 cup of yogurt "],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories  "],
             Lunch: [
-              "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: [" 2 whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "  1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
+              "  2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["  1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
+              "1 small moong dal cheela - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: ["1 cup of sprouts "],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories "],
             Lunch: [
-              " 4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
+              "  1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310",
             ],
-            Snack: ["1 cup of yogurt"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 cup of roasted peanuts "],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
             breakfast: [
-              "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
+              "  2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240",
             ],
-            Snack: [" 1 cup of roasted chickpeas "],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Sunday: {
             breakfast: [
-              " 2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
+              "  1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 290",
             ],
-            Snack: ["1 cup of yogurt"],
+            snack: ["1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
         },
@@ -2848,7 +2710,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -2864,7 +2726,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -2880,7 +2742,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -2896,7 +2758,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -2909,10 +2771,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -2925,10 +2787,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -2941,10 +2803,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -2961,91 +2823,93 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 280 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              " 1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Tuesday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270 ",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories "],
+            Lunch: [
+              " 1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "3-4 ounces of grilled chicken + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole wheat toast + 1 boiled egg + 1/2 cup of fresh fruit",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Thursday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
-            Dinner: [" Vegetable Biryani (1 cup) + 1/2 cup of cooked veggies"],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
+            Lunch: [
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
+            Dinner: [
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
+            ],
           },
           Friday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories  "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: [" Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "3-4 ounces of grilled chicken + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
-            Dinner: [" Vegetable Pulao (1 cup) + 1/2 cup of cooked veggies"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
+            Lunch: [
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
+            Dinner: [
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
+            ],
           },
           Sunday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: ["1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
         },
@@ -3054,7 +2918,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -3072,7 +2936,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -3083,10 +2947,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -3099,10 +2963,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3115,10 +2979,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -3131,10 +2995,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -3149,10 +3013,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3167,103 +3031,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit",
+              " Oats porridge (1/2 cup) with 1 small apple (50 calories) and a few chopped almonds (50 calories)(Total calories: 300 calories) ",
             ],
-            Snack: [
-              " 2 corn tortillas stuffed with grated cheese and vegetables ",
+            snack: [
+              " 1 small banana (70 calories) and 10 almonds (30 calories) (Total calories:100 calories)",
             ],
             Lunch: [
-              " 1 cup of cooked brown rice, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "Grilled chicken breast (4 oz: 120 calories) with 1 cup mixed vegetable salad (100 calories) and 1 small whole wheat roti (80 calories)(Total calories:400 calories)",
             ],
             Snack: [
-              "2 large slices of whole wheat toast with 1 tsp of peanut butter ",
+              " 1 small pear (60 calories) and 10 pistachios (40 calories) (Total calories:100 calories)",
             ],
             Dinner: [
-              "1 cup of cooked quinoa, 1/2 cup of chicken curry, 1/2 cup of steamed broccoli",
+              " 1 cup palak chicken (200 calories) with 1/2 cup brown rice (100 calories) and 1 cup cucumber raita (100 calories)(Total calories:500 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 egg white omelette with bell peppers and onions, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
+              "  Quinoa porridge (1/2 cup) with 1 small pear (60 calories) and a few chopped walnuts (50 calories) (Total calories:300 calories)",
             ],
-            Snack: [
-              "2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana",
+              " 1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1/2 cup of yogurt with 1/2 cup of fresh fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed carrots",
+              "Grilled fish fillet (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small sweet potato (100 calories) (Total calories:500 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 scrambled eggs with tomatoes, 1/2 cup of oatmeal with skimmed milk, 1/2 cup of fresh fruit",
+              "  Dosa (1 large) with 1/2 cup sambar (100 calories) and 1 small cup coconut chutney (50 calories)(Total calories:300 calories)",
             ],
-            Snack: [" 2 almond stuffed idlis "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["2 slices of whole wheat toast with 1 tsp of olive oil"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed zucchini",
+              " 1 cup mushroom chicken (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              " 2 egg omelette with spinach and mushroom, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
+              "Paneer bhurji (1 cup) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (50 calories) (Total calories:300 calories)",
             ],
-            Snack: ["2 wheat crackers with 1 tsp of peanut butter"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup rajma curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey"],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed cauliflower",
+              " Grilled chicken breast (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small baked sweet potato (100 calories)(Total calories:500 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 scrambled eggs with bell peppers and onions, 1/2 cup of oats with skimmed milk, 1/2 cup of fresh fruit",
+              "Besan chilla (2 small) with 1 small cup mint chutney (50 calories) and 1/2 cup mixed vegetable salad (50 calories)(Total calories:300 calories) ",
             ],
-            Snack: ["2 almond stuffed idlis "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              " 1 cup chicken tikka masala (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 slices of whole wheat toast with 1 tsp of olive oil "],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed green beans ",
+              "Grilled fish fillet (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small cup cucumber raita (100 calories) (Total calories:500 calories) ",
             ],
           },
           Saturday: {
             breakfast: [
-              " 2 egg white omelette with tomatoes, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit ",
+              "1 cup masala omelet (200 calories) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories) ",
             ],
-            Snack: [
-              "2 corn tortillas stuffed with grated cheese and vegetables ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              " 1 cup chicken korma (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1/2 cup of yogurt with 1/2 cup of fresh fruit"],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed broccoli",
+              " 1 cup lamb curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit ",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories)",
             ],
-            Snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              " 1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup mutton biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories:400 calories)",
             ],
             Snack: [
-              "2 large slices of whole wheat toast with 1 tsp of peanut butter ",
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
             ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed carrots",
+              " 1 cup tandoori chicken (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
         },
@@ -3272,7 +3154,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3288,7 +3170,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -3299,10 +3181,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3315,10 +3197,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -3333,10 +3215,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3347,10 +3229,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3363,10 +3245,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3383,89 +3265,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 Idlis, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              "2 small whole wheat parathas (160 calories) with 1/2 cup paneer bhurji (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories: 300 calories) ",
             ],
-            Snack: [
-              " 1 slice of multigrain toast with butter and 1 cup of skimmed milk",
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories)(Total calories: 100 calories)  ",
             ],
             Lunch: [
-              "2 chapatis, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              " 1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories: 400 calories)",
             ],
-            Snack: ["1 cup of roasted chana, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories: 100 calories)",
+            ],
             Dinner: [
-              " 1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup fish curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories: 500 calories)",
             ],
           },
           Tuesday: {
-            breakfast: ["2 boiled eggs, 1 toast, 1 cup green tea"],
-            Snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
-            Lunch: [
-              "1 bowl of vegetable pulao, 1 cup of vegetable soup, 1 cup of curd",
+            breakfast: [
+              " 1 cup mushroom and capsicum omelet (200 calories) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (20 calories)((Total calories: 300 calories)",
             ],
-            Snack: ["2 besan chila, 1 fruit"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)((Total calories: 100 calories) ",
+            ],
+            Lunch: [
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)((Total calories: 400 calories)",
+            ],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)((Total calories: 100 calories)",
+            ],
             Dinner: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1 cup of skimmed milk",
+              "1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) ((Total calories: 500 calories) ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 dosas, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of upma, 1 cup of skimmed milk"],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              "1 cup prawn curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked fish curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:500 calories) ",
             ],
           },
           Thursday: {
-            breakfast: ["2 poha, 1/2 cup curd, 1 cup green tea"],
-            Snack: [" 1 banana smoothie, 1 cup skimmed milk"],
-            Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+            breakfast: [
+              " 1 cup moong dal chilla (200 calories) with 1 small cup mint chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories) ",
             ],
-            Snack: ["1 bowl of vegetable salad, 1 fruit"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup chicken kebab (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked paneer curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              "1 cup mutton curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)  (Total calories:500 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "2 parathas, 1/2 cup curd, 1 cup black coffee or green tea",
+              " 1 cup dosa (200 calories) with 1 small cup sambar (50 calories) and 1/2 cup mixed vegetable salad (50 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              " 2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              "1 cup fish fry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted makhana, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked egg curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup chicken korma (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:500 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 dosa, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              "1 cup poha (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              " 1 cup mutton keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of mixed nuts, 1 fruit"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup prawn biryani (200 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:500 calories)",
             ],
           },
           Sunday: {
-            breakfast: ["2 parathas, 1/2 cup curd, 1 cup green tea"],
-            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
-            Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+            breakfast: [
+              "2 small idlis (100 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories) ",
             ],
-            Snack: ["1 cup of roasted chana, 1 fruit"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup chicken soup (150 calories) with 1 small whole wheat roll (100 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked fish curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup lamb curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
         },
@@ -3474,7 +3388,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -3490,7 +3404,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -3503,10 +3417,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3521,10 +3435,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3537,10 +3451,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted peanuts"],
+            snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3553,10 +3467,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -3569,10 +3483,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3591,80 +3505,122 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 1 cup of oats porridge with vegetables and a handful of roasted peanuts",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories): ",
             ],
-            Snack: [" 1 cup of green tea with two whole wheat biscuits "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked brown rice with dal, 1 cup of cooked vegetables and a bowl of curd  ",
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted chana "],
-            Dinner: ["1 bowl of vegetable soup with 1 roti "],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup prawn masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories) ",
+            ],
           },
           Tuesday: {
             breakfast: [
-              "1 bowl of muesli with 1 cup of curd and a handful of mixed nuts ",
+              "2 small idlis (100 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)  (Total calories:100 calories):",
+            ],
             Lunch: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
+              "1 cup mutton curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of roasted makhana "],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              "  1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Wednesday: {
-            breakfast: [" 1 bowl of vegetable upma with a glass of buttermilk"],
-            Snack: [" 1 cup of green tea with 1 piece of roasted papad "],
-            Lunch: [
-              "1 bowl of mixed vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita ",
+            breakfast: [
+              "2 small dosas (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 bowl of roasted peanuts "],
-            Dinner: [" 1 bowl of vegetable pakoras with 1 cup of tomato soup"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              "1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
           Thursday: {
-            breakfast: ["2 egg omelette with 1 piece of whole wheat toast "],
-            Snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
-            Lunch: [
-              " 1 bowl of brown rice with dal, 1 bowl of cooked vegetables and a bowl of curd ",
+            breakfast: [
+              "1 cup moong dal cheela (200 calories) with 1 small cup tomato chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of roasted chana"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup prawn curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "1 bowl of oats porridge with vegetables and a handful of roasted almonds",
+              "  1 cup vegetable oats upma (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of green tea with two whole wheat biscuits "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              " 1 bowl of vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita",
+              " 1 cup fish fry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of roasted peanuts "],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories) ",
             ],
           },
           Saturday: {
-            breakfast: ["2 egg omelette with 1 piece of whole wheat toast"],
-            Snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
-            Lunch: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
+            breakfast: [
+              " 1 cup poha (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted chana "],
-            Dinner: ["1 bowl of vegetable soup with 1 roti "],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
+            ],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup prawn biryani (250 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
           Sunday: {
             breakfast: [
-              " 1 bowl of muesli with 1 cup of curd and a handful of mixed nuts",
+              "2 small uttapams (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl of roasted makhana "],
-            Dinner: ["1 bowl of vegetable pakoras with 1 cup of tomato soup"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
         },
         veg: {
@@ -3672,7 +3628,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -3688,7 +3644,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3703,10 +3659,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3721,10 +3677,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3737,10 +3693,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -3755,10 +3711,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3773,10 +3729,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3793,99 +3749,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " Vegetable Omelette (2 eggs, 1/2 cup onions and green peppers, 1/4 teaspoon of turmeric, 1/2 teaspoon of cumin powder, and 1/4 teaspoon of black pepper) with 2 whole wheat toast and 1 cup of green tea",
+              "2 small whole wheat parathas (160 calories) with 1 cup paneer bhurji (200 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)  ",
             ],
             Lunch: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              "1 cup chicken biryani (250 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: [" Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              " 1 cup mutton curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Tuesday: {
             breakfast: [
-              "Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              "2 small idlis (120 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              "1 cup fish curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              " Vegetable Upma (1 cup of semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small dosas (200 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              " Vegetable Cutlet (2 potatoes, 1/2 cup of beans and carrots, 1/2 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small moong dal cheela (180 calories) with 1/2 cup mint chutney (30 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              "  1 cup fish tikka (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "Vegetable Poha (1 cup of beaten rice, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small idlis (120 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories) ",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories)  (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken biryani (250 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              " Vegetable Paratha (2 wheat flour rotis, 1/4 cup of onions, 1/4 cup of tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small paneer parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: [" Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Sunday: {
             breakfast: [
-              " Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small aloo parathas (320 calories) with 1 small cup low-fat yogurt (40 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              "1 cup fish tikka (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories) ",
             ],
           },
         },
@@ -3894,7 +3872,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -3912,7 +3890,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3927,10 +3905,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with carrot and beetroot",
             ],
@@ -3943,10 +3921,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat idlis with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -3961,10 +3939,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -3979,10 +3957,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts and curry leaves, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -3995,10 +3973,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -4017,100 +3995,128 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
+              "2 small methi parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl sprouts chaat"],
+            snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup fish curry",
+              " 1 cup mutton biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories)(Total calories:800 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp peanut butter",
+              "2 small dosas (120 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl roasted makhana"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              " 2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories) (Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted soya chunks"],
+            Snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled chicken",
+              "  1 cup chicken biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              " 2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
+              " 2 small moong dal cheela (180 calories) with 1/2 cup mint chutney (30 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: [" 1 bowl of roasted peanuts"],
+            snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup paneer curry",
+              "  1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:800 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp almond butter",
+              " 2 small paneer parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 bowl khakras"],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken tikka masala (250 calories) with 1 small whole wheat naan (150 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted soya chunks"],
+            Snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled fish",
+              " 1 cup lamb biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories)(Total calories:800 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
+              " 2 small idlis (80 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl roasted makhana"],
+            snack: [
+              "  1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup grilled chicken",
+              " 1 cup mutton korma (300 calories) with 1 small whole wheat naan (150 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp peanut butter",
+              " 2 small moong dal parathas (320 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories)(Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl of roasted peanuts"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken kebab (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: [" 1 cup roasted soya chunks"],
+            Snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled egg",
+              " 1 cup prawn biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
+              "  1 small bowl of chicken curry (150 calories) + 2 small whole wheat parathas (160 calories each) + 1 medium-sized orange (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 bowl khakras"],
+            snack: [
+              " 1 small bowl of sliced cucumber with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup quinoa (150 calories) + 1 small bowl of mushroom curry (150 calories) + 1 small bowl of fish fry (150 calories) + 1 small bowl of low-fat yogurt (20 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              "1 small bowl of mixed berries (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup paneer tikka",
+              "1 small bowl of chicken biryani (400 calories) + 1 small bowl of mixed vegetable raita (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories) ",
             ],
           },
         },
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            Snack: ["1 small apple"],
+            snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -4122,7 +4128,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            Snack: ["1 small orange (60 calories)"],
+            snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -4136,7 +4142,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -4148,7 +4154,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            Snack: ["1 small guava"],
+            snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -4162,7 +4168,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            Snack: ["1 small peach"],
+            snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -4176,7 +4182,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            Snack: ["1 small banana"],
+            snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -4190,7 +4196,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -4205,93 +4211,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 whole wheat rotis + 1/2 cup cooked sprouts + 1 cup low fat yogurt",
+              " 2 small whole wheat parathas (160 calories each) + 1 small bowl of chicken curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories) + 1 medium-sized apple (60 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
+            snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal fry",
+              "1 cup brown rice (150 calories) + 1 small bowl of mixed vegetable curry (150 calories) + 1 small bowl of fish fry (150 calories) + 1 small bowl of cucumber raita (20 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain chivda"],
+            Snack: [
+              " 1 small whole wheat pita bread + 1 small bowl of hummus (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of grilled fish + 2 cups of cooked brown rice + 1 bowl of spinach raita",
+              "1 small bowl of mutton curry (250 calories) + 2 small whole wheat chapatis (120 calories each) + 1 small bowl of mixed vegetable salad (30 calories) + 1 small bowl of low-fat yogurt (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 whole wheat parathas + 1/2 cup cooked brown rice + 1 cup of low fat curd",
+              " 1 small bowl of chicken soup (150 calories) + 2 small whole wheat parathas (160 calories each) + 1 medium-sized orange (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
+            snack: [
+              "  1 small bowl of sliced cucumber with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable biryani + 1 cup of boiled vegetables + 1 bowl of dal tadka",
+              " 1 cup quinoa (150 calories) + 1 small bowl of mushroom curry (150 calories) + 1 small bowl of fish curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain mathris"],
+            Snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken curry + 2 cups of cooked brown rice + 1 bowl of cucumber raita",
+              "1 small bowl of chicken biryani (400 calories) + 1 small bowl of mixed vegetable raita (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 whole wheat pancakes + 1/2 cup cooked oats + 1 cup of low fat milk",
+              "2 small whole wheat parathas (160 calories each) + 1 small bowl of fish curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories) + 1 medium-sized apple (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
+            snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal makhani",
+              "1 cup brown rice (150 calories) + 1 small bowl of mixed vegetable curry (150 calories) + 1 small bowl of chicken tikka (150 calories) + 1 small bowl of cucumber raita (20 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain biscuits"],
+            Snack: [
+              "1 small bowl of sliced carrots with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of tandoori chicken + 2 cups of cooked brown rice + 1 bowl of mint raita",
+              " 1 small bowl of lamb rogan josh (250 calories) + 2 small whole wheat chapatis (120 calories each) + 1 small bowl of mixed vegetable salad (30 calories) + 1 small bowl of low-fat yogurt (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 multigrain chapatis + 1/2 cup cooked quinoa + 1 cup of low fat lassi",
+              "2 whole wheat chapatis (120 calories),1/2 cup low-fat paneer bhurji (130 calories),1/2 cup mixed vegetables (50 calories),1 small apple (70 calories) (Total calories:370 calories)",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
+            snack: [
+              " 1 small pear (60 calories),1 tablespoon almond butter (40 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable kadhi + 1 cup of boiled vegetables + 1 bowl of dal palak",
+              "1 cup brown rice (150 calories),1/2 cup chicken curry (180 calories),1/2 cup mixed vegetables (50 calories),1 small orange (50 calories),1/2 cup low-fat yogurt (40 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain muffins"],
+            Snack: [
+              "1 small peach (60 calories),1 string cheese stick (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of fish tikka masala + 2 cups of cooked brown rice + 1 bowl of onion raita",
+              "2 oz. tandoori chicken breast (150 calories),1 cup spinach and lentil dal (200 calories),1/2 cup brown rice (75 calories),1 cup mixed vegetables (100 calories),1 small whole wheat naan (200 calories),1 small banana (85 calories)  (Total calories:860 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "2 whole wheat dosa + 1/2 cup cooked millet + 1 cup of low fat buttermilk",
+              "1 cup oatmeal with 1 tablespoon chopped walnuts and 1/2 cup unsweetened almond milk (280 calories),1 hard-boiled egg (70 calories),1 small orange (50 calories),1/2 cup low-fat yogurt (50 calories)(Total calories:450 calories) ",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
+            snack: [
+              " 1 small apple (70 calories),1 string cheese stick (40 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable upma + 1 cup of boiled vegetables + 1 bowl of dal fry",
+              "1 cup brown rice (150 calories),1/2 cup chicken kebab (150 calories),1/2 cup mixed vegetables (50 calories),1 small pear (60 calories),1/2 cup low-fat yogurt (40 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain poha"],
+            Snack: [
+              "1 small peach (60 calories),1 tablespoon almond butter (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken tikka masala + 2 cups of cooked brown rice + 1 bowl of boondi raita",
+              "2 oz. lamb curry (200 calories),1/2 cup brown rice (75 calories),1 cup mixed vegetables (100 calories),1 small whole wheat naan (200 calories),1 small banana (85 calories),1/2 cup low-fat yogurt (40 calories)(Total calories:850 calories) ",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 multigrain idlis + 1/2 cup cooked rajma + 1 cup of low fat curd",
+              "2 small multigrain parathas (150g) with 100g mushroom bhurji (Total calories:180 calories) ",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
+            snack: [
+              "1 small bowl of roasted chana (Total calories:100 calories)  ",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal makhani",
+              "1 cup brown rice (195g) with 150g fish fry (Total calories:370 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain chips"],
+            Snack: [
+              " 1 small bowl of cucumber and tomato raita (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of fish curry + 2 cups of cooked brown rice + 1 bowl of tomato raita",
+              " 150g mutton keema (250 calories) with 1 small whole wheat roti (Total calories:150 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 whole wheat uttapam + 1/2 cup cooked barley + 1 cup of low fat lassi",
+              " 2 small idlis (60g) with 100g chicken sambar (Total calories:230 calories) ",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
+            snack: [
+              " 1 small bowl of mixed fruit salad (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal tadka",
+              "1 cup brown rice (195g) with 150g chicken tikka masala (Total calories:390 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain nachos"],
+            Snack: [
+              " 1 small bowl of moong dal chilla (35g) with 1 tablespoon of green chutney (Total calories:150 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken biryani + 2 cups of cooked brown rice + 1 bowl of onion raita",
+              "150g fish curry (340 calories) with 1 small whole wheat roti (Total calories:150 calories) ",
             ],
           },
         },
@@ -4300,7 +4334,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -4316,7 +4350,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -4332,7 +4366,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -4348,7 +4382,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -4361,10 +4395,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -4377,10 +4411,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -4393,10 +4427,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -4413,97 +4447,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " Masala oats with vegetables (1 cup) and 2 small grilled chicken sausages (50g)(Total calories:350 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              " 1 small apple (100g) and 5 almonds (10g) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 cup brown rice (cooked), 1 small bowl of chana masala (150g), and 1 small bowl of cucumber raita (50g)  (Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              " 1 small orange (100g) and 1 boiled egg (Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of grilled chicken, 1 bowl of spinach curry and a glass of buttermilk",
+              "Tandoori chicken (150g), 1 small bowl of palak paneer (100g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:1000 calories): ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
+              "  2 small multigrain bread slices (40g) with 1 small bowl of mushroom and spinach curry (150g) and 2 small chicken sausages (50g)(Total calories:350 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "1 small pear (100g) and 5 walnuts (10g) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 1 small bowl of rajma (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of sprouts salad (100g) with 1 small tomato (50g)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of fish curry, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              " 1 small bowl of mutton curry (150g), 1 small bowl of baingan bharta (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              "1 small bowl of paneer bhurji (100g) and 2 small whole wheat rotis (50g each)(Total calories:350 calories) ",
             ],
-            Snack: [
-              " 2 tablespoons of roasted chana and a glass of buttermilk",
+            snack: [
+              "  1 small guava (100g) and 5 almonds (10g)(Total calories:150 calories) ",
             ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 small bowl of chicken tikka masala (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of carrot and cucumber sticks (100g) with hummus (2 tbsp)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of paneer tikka, 1 bowl of spinach curry and a glass of buttermilk",
+              " 1 small bowl of fish curry (150g), 1 small bowl of aloo gobi (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Thursday: {
             breakfast: [
-              " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 small multigrain bread slices (40g) with 1 small bowl of mushroom and spinach curry (150g) and 2 small chicken sausages (50g)(Total calories:350 calories) ",
             ],
-            Snack: [
-              " 2 tablespoons of roasted chana and a glass of buttermilk",
+            snack: [
+              "  1 small apple (100g) and 5 walnuts (10g) (Total calories:150 calories)",
             ],
             Lunch: [
-              " 2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 small bowl of dal makhani (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              " 1 small bowl of sprouts salad (100g) with 1 small tomato (50g) (Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of chicken tikka masala, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              " 1 small bowl of fish curry (150g), 1 small bowl of aloo gobi (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
+              "1 small bowl of oatmeal cooked in low-fat milk and topped with chopped almonds and dried cranberries (280 calories) + 1 small banana (120 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "  Grilled fish fillet with lemon and herbs (150 calories) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 2 small whole wheat rotis (200 calories) + 1 cup of chicken curry made with mixed vegetables (150 calories) + 1 small bowl of curd (100 calories) + 1 small orange (50 calories)(Total calories:500 calories)",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of mixed nuts (150 calories)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of grilled fish, 1 bowl of spinach curry and a glass of buttermilk",
+              "1 cup of brown rice (200 calories) + 1 cup of palak paneer made with low-fat paneer (150 calories) + 1 small bowl of mixed vegetable salad (50 calories) + 1 small bowl of dal tadka (100 calories) + 1 small bowl of fruit salad (200 calories) + 2 small whole wheat rotis (200 calories)(Total calories:900 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 small whole wheat parathas stuffed with spiced chicken mince and onions (300 calories) + 1 small orange (50 calories) + 1 small cup of low-fat milk tea (50 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              " Grilled chicken breast with mint chutney (150 calories) (Total calories:150 calories)",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 cup of brown rice (200 calories) + 1 cup of mixed vegetable curry made with cauliflower, peas, and carrots (150 calories) + 1 small bowl of curd (100 calories) + 1 small apple (50 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of mixed fruit chaat with lemon and chat masala (150 calories)(Total calories:150 calories)",
+            ],
             Dinner: [
-              " 2 chapattis, 1 cup of tandoori chicken, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              "2 small whole wheat rotis (200 calories) + 1 cup of mutton curry made with mixed vegetables (300 calories) + 1 small bowl of mixed vegetable salad (50 calories) + 1 small bowl of fruit salad (200 calories) + 1 small bowl of low-fat vanilla ice cream (150 calories) (Total calories:900 calories)",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 medium-sized Moong Dal Chilas (260 calories) + 2 tbsp mint-coriander chutney (22 calories) + 1 cup masala chai made with skimmed milk (200 calories) (Total calories:450 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "  1 small apple (80 calories) + 1 slice low-fat cheese (20 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 1 cup chicken curry (250 calories) + 1 cup cooked brown rice (110 calories) + 1 cup cucumber and tomato salad with lemon juice dressing (50 calories) + 1 small orange (66 calories) (Total calories:480 calories)",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: [
+              " 1 cup plain yogurt (80 calories) + 1/4 cup mixed berries (20 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of shrimp curry, 1 bowl of spinach curry and a glass of buttermilk",
+              "  2 small whole wheat rotis (240 calories) + 1 cup spinach and paneer curry (350 calories) + 1 cup cooked quinoa (120 calories) + 1 small bowl of fruit salad (60 calories) (Total calories:870 calories)",
             ],
           },
         },
@@ -4512,7 +4570,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -4530,7 +4588,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -4541,10 +4599,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -4557,10 +4615,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4573,10 +4631,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -4589,10 +4647,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -4607,10 +4665,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4625,94 +4683,94 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 2 egg omelette with spinach and grilled mushrooms with 1 cup of oats and 1 cup of fat-free yogurt",
+              " 2 chapatis + 1 small bowl of chicken curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small apple (80 calories)  "],
             Lunch: [
-              " 2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              " 1 cup brown rice + 1 small bowl of fish curry (400 calories)",
             ],
-            Snack: [
-              " 2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: [" 1 cup low-fat yogurt (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: [" Baked fish with 1 cup of steamed vegetables "],
           },
           Tuesday: {
             breakfast: [
-              "2 poached eggs with spinach and low-fat cheese with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small dosas + 1 small bowl of chicken gravy (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: [" 1 small pear (60 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
+              " 1 cup quinoa + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 cup low-fat buttermilk (50 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of fish curry (500 calories) ",
             ],
-            Dinner: [" Grilled chicken breast with 1 cup of steamed broccoli "],
           },
           Wednesday: {
             breakfast: [
-              "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small idlis + 1 small bowl of mutton curry (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small orange (60 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup brown rice + 1 small bowl of chicken curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 cup low-fat yogurt (100 calories)"],
+            Dinner: [
+              " 2 small rotis + 1 small bowl of fish curry (500 calories)",
             ],
-            Dinner: ["Baked tofu with 1 cup of steamed beans "],
           },
           Thursday: {
             breakfast: [
-              "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small parathas + 1 small bowl of egg curry (350 calories) ",
             ],
-            Snack: ["1 cup of roasted chickpeas"],
+            snack: ["  1 small banana (80 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup quinoa + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of mixed nuts (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: ["Grilled salmon with 1 cup of steamed cauliflower"],
           },
           Friday: {
             breakfast: [
-              "2 egg omelette with bell peppers and onions with 1 cup of oats and 1 cup of fat-free yogurt",
+              " 2 small dosas + 1 small bowl of chicken gravy (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: [" 1 small apple (80 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              " 1 cup brown rice + 1 small bowl of fish curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of mixed nuts (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of prawn curry (500 calories) ",
             ],
-            Dinner: [" Baked chicken breast with 1 cup of steamed spinach "],
           },
           Saturday: {
             breakfast: [
-              "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
+              "2 small idlis + 1 small bowl of mutton curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["  1 small pear (60 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup quinoa + 1 small bowl of chicken curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: [" 1 small cup of low-fat buttermilk (50 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of fish curry (500 calories) ",
             ],
-            Dinner: ["Grilled tofu with 1 cup of steamed peas "],
           },
           Sunday: {
             breakfast: [
-              "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
+              "2 chapatis + 1 small bowl of egg curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small orange (60 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
+              "1 cup brown rice + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of low-fat yogurt (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: ["Baked fish with 1 cup of steamed mushrooms"],
           },
         },
         veg: {
@@ -4720,7 +4778,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4736,7 +4794,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -4747,10 +4805,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4763,10 +4821,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -4781,10 +4839,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4795,10 +4853,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -4811,10 +4869,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4830,82 +4888,98 @@ export const Diets = {
       2300: {
         nonVeg: {
           Monday: {
-            breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            Snack: ["Handful of almonds"],
-            Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+            breakfast: [
+              " 2 medium-sized dosas with coconut chutney and sambar (400 calories) ",
             ],
-            Snack: ["Sliced cucumber with hummus"],
-            Dinner: ["Grilled fish with a side of mixed vegetables and quinoa"],
-          },
-
-          Tuesday: {
-            breakfast: ["Oatmeal with mixed berries and chopped nuts"],
-            Snack: ["Carrot sticks with hummus"],
+            snack: ["1 small apple (80 calories)  "],
             Lunch: [
-              "Chicken and vegetable soup with a side of whole wheat bread",
+              "1 cup of mixed vegetable curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
             ],
-            Snack: ["Sliced apple with peanut butter"],
-            Dinner: ["Baked salmon with a side of roasted broccoli and quinoa"],
-          },
-
-          Wednesday: {
-            breakfast: ["Greek yogurt with sliced banana and granola"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [
-              "Grilled chicken breast with a side of mixed vegetables and brown rice",
+            Snack: [
+              "1 cup of low-fat yogurt with mixed berries (120 calories)",
             ],
-            Snack: ["Raw vegetable sticks with tzatziki"],
             Dinner: [
-              " Grilled shrimp with a side of mixed green salad and brown rice",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
+          Tuesday: {
+            breakfast: [
+              "  1 cup of oatmeal with 1/4 cup of chopped nuts and 1/2 cup of mixed berries (400 calories)",
+            ],
+            snack: [" 1 small orange (60 calories) "],
+            Lunch: [
+              " 1 cup of palak paneer with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
+            Dinner: [
+              " 1 cup of grilled fish with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories)",
+            ],
+          },
+          Wednesday: {
+            breakfast: [
+              "2 medium-sized dosas with coconut chutney and sambar (400 calories) ",
+            ],
+            snack: [" 1 small pear (80 calories)  "],
+            Lunch: [
+              "1 cup of chicken biryani with 1 small bowl of cucumber raita and a small salad (550 calories)",
+            ],
+            Snack: [" 1 small banana (90 calories)"],
+            Dinner: [
+              "1 cup of sautéed shrimp with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
+            ],
+          },
           Thursday: {
             breakfast: [
-              "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
+              " 1 cup of poha with mixed vegetables and 1/2 cup of yogurt (400 calories)",
             ],
-            Snack: ["Raw vegetable sticks with hummus"],
-            Lunch: ["Tuna salad with mixed greens and cherry tomatoes"],
-            Snack: ["Sliced bell pepper with guacamole"],
+            snack: ["  1 small apple (80 calories) "],
+            Lunch: [
+              "1 cup of lamb curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled chicken kebab with a side of mixed vegetables and quinoa",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
           Friday: {
             breakfast: [
-              "Poached eggs with whole wheat toast and sautéed spinach",
+              " 2 medium-sized idlis with coconut chutney and sambar (400 calories)",
             ],
-            Snack: ["Handful of almonds"],
+            snack: ["  1 small orange (60 calories) "],
             Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+              "1 cup of chicken tikka masala with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
             ],
-            Snack: ["Sliced cucumber with hummus"],
+            Snack: [" 1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled fish with a side of mixed vegetables and brown rice",
+              " 1 cup of grilled fish with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories)",
             ],
           },
-
           Saturday: {
-            breakfast: ["Greek yogurt with mixed berries and granola"],
-            Snack: ["Raw vegetable sticks with tzatziki"],
-            Lunch: ["Chicken tikka masala with a side of brown rice"],
-            Snack: ["Sliced apple with cashew butter"],
+            breakfast: [
+              " 1 cup of spinach and mushroom omelet with 1 slice of whole-grain toast (400 calories) ",
+            ],
+            snack: [" 1 small banana (90 calories) "],
+            Lunch: [
+              "1 cup of mutton keema with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled steak with a side of mixed vegetables and quinoa",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
           Sunday: {
-            breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [
-              "Grilled shrimp with a side of mixed green salad and brown rice",
+            breakfast: [
+              " 1 cup of mushroom and spinach omelet with 1 slice of whole-grain toast (400 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
+            snack: ["  1 small apple (80 calories) "],
+            Lunch: [
+              " 1 cup of fish curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: [
+              " 1 cup of low-fat yogurt with mixed berries (120 calories)",
+            ],
             Dinner: [
-              "Baked chicken breast with a side of mixed vegetables and brown rice",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
         },
@@ -4914,7 +4988,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -4930,7 +5004,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -4943,10 +5017,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -4961,10 +5035,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -4977,10 +5051,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted peanuts"],
+            snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -4993,10 +5067,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -5009,10 +5083,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5031,79 +5105,99 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "Omelet made with egg whites, spinach, and mushrooms, served with a slice of whole wheat toast",
+              " 2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar (400 calories)",
             ],
-            Snack: ["Handful of almonds"],
+            snack: [" 1 small apple and 10 almonds (100 calories) "],
             Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small chicken breast, and 1 small bowl of curd (500 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
-            Dinner: ["Baked salmon with a side of roasted broccoli and quinoa"],
+            Snack: ["1 cup of buttermilk and 1 small banana(100 calories)"],
+            Dinner: [
+              " 1 cup of mutton biryani, 1 cup of raita, and 1 cup of mixed salad (1200 calories)",
+            ],
           },
-
           Tuesday: {
-            breakfast: [" Greek yogurt with berries and chopped nuts"],
-            Snack: ["snackRaw vegetable sticks with tzatziki"],
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of fish curry and 1 cup of tea without sugar (400 calories) ",
+            ],
+            snack: [" 1 small pear and 10 cashews(100 calories) "],
             Lunch: [
-              "Chicken and vegetable soup with a side of whole wheat bread",
+              " 1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd (500 calories)",
             ],
-            Snack: ["Apple slices with peanut butter"],
+            Snack: [
+              " 1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
             Dinner: [
-              "Grilled chicken breast with a side of mixed vegetables and quinoa",
+              "1 cup of chicken biryani, 1 cup of raita, and 1 cup of mixed salad(1200 calories) ",
             ],
           },
-
           Wednesday: {
-            breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [" Tuna salad with mixed greens and cherry tomatoes"],
-            Snack: ["Raw vegetable sticks with hummus"],
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of lamb curry and 1 cup of tea without sugar (400 calories) ",
+            ],
+            snack: [" 1 small orange and 10 almonds(100 calories) "],
+            Lunch: [
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small lamb chop, and 1 small bowl of curd (500 calories)",
+            ],
+            Snack: [" 1 cup of buttermilk and 1 small banana(100 calories)"],
             Dinner: [
-              "Grilled shrimp with a side of mixed vegetables and brown rice",
+              " 1 cup of prawn biryani, 1 cup of raita, and 1 cup of mixed salad (1200 calories)",
             ],
           },
-
           Thursday: {
             breakfast: [
-              "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
+              " 2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar (400 calories) ",
             ],
-            Snack: [" Carrot sticks with hummus"],
+            snack: [" 1 small apple and 10 cashews(100 calories) "],
             Lunch: [
-              "Grilled chicken kebab with a side of mixed green salad and brown rice",
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd(500 calories)",
             ],
-            Snack: ["Cottage cheese with sliced peaches"],
-            Dinner: ["Grilled fish with a side of mixed vegetables and quinoa"],
+            Snack: [
+              "1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
+            Dinner: [
+              "1 cup of mutton curry, 1 cup of brown rice, and 1 cup of mixed salad (1200 calories)",
+            ],
           },
-
           Friday: {
-            breakfast: ["Oatmeal with sliced banana and cinnamon"],
-            Snack: ["Raw vegetable sticks with tzatziki"],
-            Lunch: ["Chicken tikka masala with a side of brown rice"],
-            Snack: ["Sliced cucumber with guacamole"],
-            Dinner: [
-              "Grilled steak with a side of mixed vegetables and quinoa",
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of fish curry and 1 cup of tea without sugar(400 calories) ",
             ],
-          },
-
-          Saturday: {
-            breakfast: [" Greek yogurt with mixed berries and granola"],
-            Snack: ["Handful of almonds"],
-            Lunch: ["Chicken salad with mixed greens and cherry tomatoes"],
-            Snack: ["Apple slices with cashew butter"],
-            Dinner: [
-              "Baked chicken breast with a side of mixed vegetables and brown rice",
-            ],
-          },
-
-          Sunday: {
-            breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            Snack: ["Handful of walnuts"],
+            snack: ["  1 small pear and 10 almonds (100 calories)"],
             Lunch: [
-              "Grilled shrimp with a side of mixed green salad and brown rice",
+              "1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small chicken breast, and 1 small bowl of curd(500 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
+            Snack: ["1 cup of buttermilk and 1 small banana(100 calories)"],
             Dinner: [
-              "Grilled chicken breast with a side of mixed vegetables and quinoa",
+              "1 cup of mutton curry, 1 cup of brown rice, and 1 cup of mixed salad(1200 calories) ",
+            ],
+          },
+          Saturday: {
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of lamb curry and 1 cup of tea without sugar (400 calories)",
+            ],
+            snack: ["1 small orange and 10 cashews(100 calories)  "],
+            Lunch: [
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd(500 calories)",
+            ],
+            Snack: [
+              "1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
+            Dinner: [
+              " 1 cup of prawn curry, 1 cup of brown rice, and 1 cup of mixed salad  (1200 calories)",
+            ],
+          },
+          Sunday: {
+            breakfast: [
+              "  2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar(400 calories)",
+            ],
+            snack: [" 1 small apple and 10 almonds(100 calories) "],
+            Lunch: [
+              " 1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small lamb chop, and 1 small bowl of curd(500 calories)",
+            ],
+            Snack: [" 1 cup of buttermilk and 1 small banana(100 calories)"],
+            Dinner: [
+              " 1 cup of mutton biryani, 1 cup of raita, and 1 cup of mixed salad(1200 calories) ",
             ],
           },
         },
@@ -5112,7 +5206,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -5128,7 +5222,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5143,10 +5237,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -5161,10 +5255,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -5177,10 +5271,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -5195,10 +5289,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -5213,10 +5307,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -7797,100 +7891,100 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelette with spinach, tomato, garlic and onion",
+              " 1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 290",
             ],
-            Snack: ["2 poha cutlets"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Tuesday: {
             breakfast: [
-              " 2 slices of whole wheat toast with 2 tablespoons of peanut butter ",
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240",
             ],
-            Snack: ["1 bowl of vegetable upma "],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              " 1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of multigrain bread with 2 tablespoons of hummus",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: ["2 vegetable vadas"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Thursday: {
             breakfast: [
-              " 2 egg omelette with spinach, tomato, garlic and onion",
+              " 1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260",
             ],
-            Snack: ["2 poha cutlets"],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories "],
             Lunch: [
-              " cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of multigrain bread with 2 tablespoons of hummus",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310",
             ],
-            Snack: [" 1 bowl of vegetable upma"],
+            snack: ["1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              " 1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: [" 1 bowl of vegetable soup "],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 egg omelette with spinach, tomato, garlic and onion ",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: ["2 vegetable vadas"],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "1 cup cooked vegetable biryani, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables",
+              " 1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: ["2 whole wheat rotis with a small bowl of vegetable curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "1 bowl of fish curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tablespoons of peanut butter",
+              "2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270 ",
             ],
-            Snack: [" 1 bowl of vegetable upma"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "1 cup cooked vegetable pulao, 1 bowl of dal, 1 small bowl of raita, 1 small bowl of plain curd and 1 cup of cooked vegetables ",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["1 bowl of vegetable soup"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 1 bowl of chicken curry with 1 cup of cooked brown rice, 1 small bowl of raita and 1 small bowl of plain curd ",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
         },
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            Snack: ["1 small apple"],
+            snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -7902,7 +7996,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            Snack: ["1 small orange (60 calories)"],
+            snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -7916,7 +8010,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -7928,7 +8022,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            Snack: ["1 small guava"],
+            snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -7942,7 +8036,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            Snack: ["1 small peach"],
+            snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -7956,7 +8050,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            Snack: ["1 small banana"],
+            snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -7970,7 +8064,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -7985,93 +8079,93 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast ",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: [" 1 cup of sprouts "],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
             Lunch: [
-              " 3-4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " 4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: [" 1 cup of yogurt "],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories  "],
             Lunch: [
-              "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup palak paneer - 120 calories, and 1 small cucumber raita - 50 calories. Total calories: 240",
             ],
-            Snack: [" 2 whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "  1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
+              "  2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["  1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
+              "1 small moong dal cheela - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: ["1 cup of sprouts "],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories "],
             Lunch: [
-              " 4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of whole wheat toast with 1 tablespoon of peanut butter, 1 cup of skimmed milk",
+              "  1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310",
             ],
-            Snack: ["1 cup of yogurt"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["1 cup of roasted peanuts "],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
             breakfast: [
-              "1 cup of oats cooked in skimmed milk, 1/2 cup of fresh seasonal fruits",
+              "  2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240",
             ],
-            Snack: [" 1 cup of roasted chickpeas "],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "4 ounces of grilled fish, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["2 pieces of whole wheat rotis with chicken curry"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Sunday: {
             breakfast: [
-              " 2 egg omelet with mixed vegetables, 1 cup of skimmed milk, and 2 slices of whole wheat toast",
+              "  1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 290",
             ],
-            Snack: ["1 cup of yogurt"],
+            snack: ["1 small bowl of sprouts chaat - 80 calories"],
             Lunch: [
-              "4 ounces of grilled chicken, 1/2 cup of brown rice, 1/2 cup of steamed vegetables ",
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "4 ounces of fish curry, 1/2 cup of brown rice, 1/2 cup of steamed vegetables",
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
             ],
           },
         },
@@ -8080,7 +8174,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -8096,7 +8190,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -8112,7 +8206,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -8128,7 +8222,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -8141,10 +8235,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -8157,10 +8251,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -8173,10 +8267,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -8193,91 +8287,93 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 280 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              " 1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Tuesday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small apple - 80 calories. Total calories: 270 ",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
+            snack: ["  1 small bowl of sprouts chaat - 80 calories "],
+            Lunch: [
+              " 1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "3-4 ounces of grilled chicken + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole wheat toast + 1 boiled egg + 1/2 cup of fresh fruit",
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              " Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Thursday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
-            Dinner: [" Vegetable Biryani (1 cup) + 1/2 cup of cooked veggies"],
+            snack: [" 1 small bowl of roasted chana - 80 calories  "],
+            Lunch: [
+              "1 small multigrain roti - 70 calories, 1/2 cup chicken curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
+            Dinner: [
+              " 1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280",
+            ],
           },
           Friday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              " 2 small idlis - 120 calories, 1/2 cup sambar - 70 calories, and 1 small orange - 50 calories. Total calories: 240 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: [" 1 small bowl of sprouts chaat - 80 calories  "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              " 1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled chicken breast - 150 calories. Total calories: 320",
             ],
-            Snack: [" Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: ["1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "3-4 ounces of grilled chicken + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              "1 small grilled fish fillet - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
           Saturday: {
-            breakfast: ["2 Oats pancakes + 1/2 cup of low-fat yogurt"],
-            Snack: ["1/2 cup of roasted peanuts + 1/2 cup of fresh fruits"],
-            Lunch: [
-              "2 chapatis + 1/2 cup of cooked chicken + 1/2 cup of cooked veggies",
+            breakfast: [
+              "1 small moong dal chilla - 100 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small orange - 50 calories. Total calories: 260",
             ],
-            Snack: ["1/2 cup of roasted makhana + 1/2 cup of fresh fruits"],
-            Dinner: [" Vegetable Pulao (1 cup) + 1/2 cup of cooked veggies"],
+            snack: [" 1 small bowl of roasted chana - 80 calories "],
+            Lunch: [
+              "1 small multigrain roti - 70 calories, 1/2 cup fish curry - 140 calories, and 1 small cucumber raita - 50 calories. Total calories: 260",
+            ],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
+            Dinner: [
+              "1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
+            ],
           },
           Sunday: {
             breakfast: [
-              "2 boiled eggs + 2 slices of whole wheat toast + 1/2 cup of fresh fruit",
+              "1 small methi paratha - 120 calories, 1/2 cup low-fat paneer bhurji - 110 calories, and 1 small apple - 80 calories. Total calories: 310 ",
             ],
-            Snack: [
-              "Smoothie made with 1/2 cup of low-fat yogurt, 1/2 cup of fresh berries and 1/2 cup of oats",
-            ],
+            snack: ["1 small bowl of roasted chana - 80 calories "],
             Lunch: [
-              "2 chapatis + 1/2 cup of cooked lentils + 1/2 cup of cooked veggies",
+              "1/2 cup brown rice - 110 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small grilled fish fillet - 150 calories. Total calories: 320",
             ],
-            Snack: ["Roasted chana (1/2 cup) + 1/2 cup of fresh fruits"],
+            Snack: [" 1 small bowl of mixed fruit salad - 60 calories"],
             Dinner: [
-              "Grilled fish (3-4 ounces) + 1/2 cup of cooked brown rice + 1/2 cup of cooked veggies",
+              " 1 small grilled chicken breast - 150 calories, 1/2 cup mixed vegetable curry - 60 calories, and 1 small multigrain roti - 70 calories. Total calories: 280 ",
             ],
           },
         },
@@ -8286,7 +8382,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -8304,7 +8400,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -8315,10 +8411,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -8331,10 +8427,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8347,10 +8443,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -8363,10 +8459,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -8381,10 +8477,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8399,103 +8495,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit",
+              " Oats porridge (1/2 cup) with 1 small apple (50 calories) and a few chopped almonds (50 calories)(Total calories: 300 calories) ",
             ],
-            Snack: [
-              " 2 corn tortillas stuffed with grated cheese and vegetables ",
+            snack: [
+              " 1 small banana (70 calories) and 10 almonds (30 calories) (Total calories:100 calories)",
             ],
             Lunch: [
-              " 1 cup of cooked brown rice, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "Grilled chicken breast (4 oz: 120 calories) with 1 cup mixed vegetable salad (100 calories) and 1 small whole wheat roti (80 calories)(Total calories:400 calories)",
             ],
             Snack: [
-              "2 large slices of whole wheat toast with 1 tsp of peanut butter ",
+              " 1 small pear (60 calories) and 10 pistachios (40 calories) (Total calories:100 calories)",
             ],
             Dinner: [
-              "1 cup of cooked quinoa, 1/2 cup of chicken curry, 1/2 cup of steamed broccoli",
+              " 1 cup palak chicken (200 calories) with 1/2 cup brown rice (100 calories) and 1 cup cucumber raita (100 calories)(Total calories:500 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 egg white omelette with bell peppers and onions, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
+              "  Quinoa porridge (1/2 cup) with 1 small pear (60 calories) and a few chopped walnuts (50 calories) (Total calories:300 calories)",
             ],
-            Snack: [
-              "2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana",
+              " 1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1/2 cup of yogurt with 1/2 cup of fresh fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed carrots",
+              "Grilled fish fillet (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small sweet potato (100 calories) (Total calories:500 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 scrambled eggs with tomatoes, 1/2 cup of oatmeal with skimmed milk, 1/2 cup of fresh fruit",
+              "  Dosa (1 large) with 1/2 cup sambar (100 calories) and 1 small cup coconut chutney (50 calories)(Total calories:300 calories)",
             ],
-            Snack: [" 2 almond stuffed idlis "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["2 slices of whole wheat toast with 1 tsp of olive oil"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed zucchini",
+              " 1 cup mushroom chicken (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              " 2 egg omelette with spinach and mushroom, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit",
+              "Paneer bhurji (1 cup) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (50 calories) (Total calories:300 calories)",
             ],
-            Snack: ["2 wheat crackers with 1 tsp of peanut butter"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup rajma curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["2 whole wheat roti with 1 tsp of ghee and 1 tsp of honey"],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed cauliflower",
+              " Grilled chicken breast (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small baked sweet potato (100 calories)(Total calories:500 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 scrambled eggs with bell peppers and onions, 1/2 cup of oats with skimmed milk, 1/2 cup of fresh fruit",
+              "Besan chilla (2 small) with 1 small cup mint chutney (50 calories) and 1/2 cup mixed vegetable salad (50 calories)(Total calories:300 calories) ",
             ],
-            Snack: ["2 almond stuffed idlis "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              " 1 cup chicken tikka masala (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 slices of whole wheat toast with 1 tsp of olive oil "],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed green beans ",
+              "Grilled fish fillet (4 oz: 120 calories) with 1 cup mixed vegetable stir-fry (100 calories) and 1 small cup cucumber raita (100 calories) (Total calories:500 calories) ",
             ],
           },
           Saturday: {
             breakfast: [
-              " 2 egg white omelette with tomatoes, 1/2 cup of muesli with skimmed milk, 1/2 cup of fresh fruit ",
+              "1 cup masala omelet (200 calories) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories) ",
             ],
-            Snack: [
-              "2 corn tortillas stuffed with grated cheese and vegetables ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              " 1 cup chicken korma (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1/2 cup of yogurt with 1/2 cup of fresh fruit"],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of cooked brown rice, 1/2 cup of fish curry, 1/2 cup of steamed broccoli",
+              " 1 cup lamb curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 egg omelette with spinach, 1/2 cup oats with skimmed milk, 1/2 cup fresh fruit ",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories)",
             ],
-            Snack: [" 2 wheat crackers with 1 tsp of peanut butter "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              " 1 cup of cooked quinoa, 1 cup of mixed vegetable curry, 1 cup of boiled black chana ",
+              "1 cup mutton biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories:400 calories)",
             ],
             Snack: [
-              "2 large slices of whole wheat toast with 1 tsp of peanut butter ",
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
             ],
             Dinner: [
-              "1 cup of cooked brown rice, 1/2 cup of chicken curry, 1/2 cup of steamed carrots",
+              " 1 cup tandoori chicken (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
         },
@@ -8504,7 +8618,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8520,7 +8634,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -8531,10 +8645,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8547,10 +8661,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -8565,10 +8679,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8579,10 +8693,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8595,10 +8709,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8615,89 +8729,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 Idlis, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              "2 small whole wheat parathas (160 calories) with 1/2 cup paneer bhurji (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories: 300 calories) ",
             ],
-            Snack: [
-              " 1 slice of multigrain toast with butter and 1 cup of skimmed milk",
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories)(Total calories: 100 calories)  ",
             ],
             Lunch: [
-              "2 chapatis, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              " 1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories)(Total calories: 400 calories)",
             ],
-            Snack: ["1 cup of roasted chana, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories: 100 calories)",
+            ],
             Dinner: [
-              " 1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup fish curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories: 500 calories)",
             ],
           },
           Tuesday: {
-            breakfast: ["2 boiled eggs, 1 toast, 1 cup green tea"],
-            Snack: [" 1/2 cup oats porridge, 1 cup skimmed milk"],
-            Lunch: [
-              "1 bowl of vegetable pulao, 1 cup of vegetable soup, 1 cup of curd",
+            breakfast: [
+              " 1 cup mushroom and capsicum omelet (200 calories) with 1 small whole wheat roti (80 calories) and 1/2 cup mixed vegetable salad (20 calories)((Total calories: 300 calories)",
             ],
-            Snack: ["2 besan chila, 1 fruit"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)((Total calories: 100 calories) ",
+            ],
+            Lunch: [
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)((Total calories: 400 calories)",
+            ],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)((Total calories: 100 calories)",
+            ],
             Dinner: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1 cup of skimmed milk",
+              "1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) ((Total calories: 500 calories) ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 dosas, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of upma, 1 cup of skimmed milk"],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              "1 cup prawn curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked fish curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:500 calories) ",
             ],
           },
           Thursday: {
-            breakfast: ["2 poha, 1/2 cup curd, 1 cup green tea"],
-            Snack: [" 1 banana smoothie, 1 cup skimmed milk"],
-            Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+            breakfast: [
+              " 1 cup moong dal chilla (200 calories) with 1 small cup mint chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories) ",
             ],
-            Snack: ["1 bowl of vegetable salad, 1 fruit"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup chicken kebab (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked paneer curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              "1 cup mutton curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)  (Total calories:500 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "2 parathas, 1/2 cup curd, 1 cup black coffee or green tea",
+              " 1 cup dosa (200 calories) with 1 small cup sambar (50 calories) and 1/2 cup mixed vegetable salad (50 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              " 2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              "1 cup fish fry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted makhana, 1 fruit"],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked egg curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup chicken korma (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:500 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 dosa, 1/2 cup sambar, 1/2 cup chutney, 1 cup black coffee or green tea",
+              "1 cup poha (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:300 calories)",
             ],
-            Snack: ["1 bowl of vegetable upma, 1 cup of skimmed milk"],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+              " 1 cup mutton keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of mixed nuts, 1 fruit"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked chicken curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup prawn biryani (200 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:500 calories)",
             ],
           },
           Sunday: {
-            breakfast: ["2 parathas, 1/2 cup curd, 1 cup green tea"],
-            Snack: ["1 bowl of oats porridge, 1 cup skimmed milk"],
-            Lunch: [
-              "2 chapati, 1/2 cup cooked dal, 1/2 cup cooked vegetables, 1/2 cup curd, 1 cup vegetable soup",
+            breakfast: [
+              "2 small idlis (100 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:300 calories) ",
             ],
-            Snack: ["1 cup of roasted chana, 1 fruit"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup chicken soup (150 calories) with 1 small whole wheat roll (100 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 chapati, 1/2 cup cooked vegetables, 1/4 cup cooked fish curry, 1/4 cup cooked brown rice, 1 cup of skimmed milk",
+              " 1 cup lamb curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:500 calories)",
             ],
           },
         },
@@ -8706,7 +8852,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -8722,7 +8868,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -8735,10 +8881,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8753,10 +8899,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8769,10 +8915,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted peanuts"],
+            snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8785,10 +8931,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -8801,10 +8947,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8823,80 +8969,122 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 1 cup of oats porridge with vegetables and a handful of roasted peanuts",
+              " 1 cup vegetable upma (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories): ",
             ],
-            Snack: [" 1 cup of green tea with two whole wheat biscuits "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of cooked brown rice with dal, 1 cup of cooked vegetables and a bowl of curd  ",
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted chana "],
-            Dinner: ["1 bowl of vegetable soup with 1 roti "],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup prawn masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories) ",
+            ],
           },
           Tuesday: {
             breakfast: [
-              "1 bowl of muesli with 1 cup of curd and a handful of mixed nuts ",
+              "2 small idlis (100 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)  (Total calories:100 calories):",
+            ],
             Lunch: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
+              "1 cup mutton curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of roasted makhana "],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              "  1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Wednesday: {
-            breakfast: [" 1 bowl of vegetable upma with a glass of buttermilk"],
-            Snack: [" 1 cup of green tea with 1 piece of roasted papad "],
-            Lunch: [
-              "1 bowl of mixed vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita ",
+            breakfast: [
+              "2 small dosas (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 bowl of roasted peanuts "],
-            Dinner: [" 1 bowl of vegetable pakoras with 1 cup of tomato soup"],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              "1 cup chicken biryani (200 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
           Thursday: {
-            breakfast: ["2 egg omelette with 1 piece of whole wheat toast "],
-            Snack: ["1 cup of green tea with 1 bowl of roasted makhana"],
-            Lunch: [
-              " 1 bowl of brown rice with dal, 1 bowl of cooked vegetables and a bowl of curd ",
+            breakfast: [
+              "1 cup moong dal cheela (200 calories) with 1 small cup tomato chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of roasted chana"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup prawn curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
+            ],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "1 bowl of oats porridge with vegetables and a handful of roasted almonds",
+              "  1 cup vegetable oats upma (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of green tea with two whole wheat biscuits "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              " 1 bowl of vegetable khichdi with 1 cup of cooked vegetables and a bowl of raita",
+              " 1 cup fish fry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl of roasted peanuts "],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              "1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories) ",
             ],
           },
           Saturday: {
-            breakfast: ["2 egg omelette with 1 piece of whole wheat toast"],
-            Snack: ["1 cup of green tea with 1 bowl of roasted makhana "],
-            Lunch: [
-              "1 bowl of vegetable biryani with 1 cup of cooked vegetables and a bowl of raita ",
+            breakfast: [
+              " 1 cup poha (200 calories) with 1 small cup coconut chutney (50 calories), 1/2 cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["1 cup of roasted chana "],
-            Dinner: ["1 bowl of vegetable soup with 1 roti "],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
+            Lunch: [
+              " 1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories) (Total calories:400 calories)",
+            ],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup prawn biryani (250 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
           Sunday: {
             breakfast: [
-              " 1 bowl of muesli with 1 cup of curd and a handful of mixed nuts",
+              "2 small uttapams (200 calories) with 1 small cup coconut chutney (50 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of green tea with 1 piece of whole wheat toast "],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao with 1 cup of cooked vegetables",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl of roasted makhana "],
-            Dinner: ["1 bowl of vegetable pakoras with 1 cup of tomato soup"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
+            Dinner: [
+              "1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
+            ],
           },
         },
         veg: {
@@ -8904,7 +9092,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -8920,7 +9108,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8935,10 +9123,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -8953,10 +9141,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -8969,10 +9157,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -8987,10 +9175,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9005,10 +9193,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -9025,99 +9213,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " Vegetable Omelette (2 eggs, 1/2 cup onions and green peppers, 1/4 teaspoon of turmeric, 1/2 teaspoon of cumin powder, and 1/4 teaspoon of black pepper) with 2 whole wheat toast and 1 cup of green tea",
+              "2 small whole wheat parathas (160 calories) with 1 cup paneer bhurji (200 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)  ",
             ],
             Lunch: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              "1 cup chicken biryani (250 calories) with 1 cup mixed vegetable raita (100 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: [" Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              " 1 cup mutton curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Tuesday: {
             breakfast: [
-              "Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              "2 small idlis (120 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              "1 cup fish curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              " Vegetable Upma (1 cup of semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small dosas (200 calories) with 1/2 cup sambar (50 calories), 1 small cup coconut chutney (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 tablespoons of roasted peanuts with 1/4 cup of raisins"],
+            snack: [
+              "  1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup lamb keema (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              " Vegetable Cutlet (2 potatoes, 1/2 cup of beans and carrots, 1/2 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small moong dal cheela (180 calories) with 1/2 cup mint chutney (30 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup chicken curry (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              "  1 cup fish tikka (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "Vegetable Poha (1 cup of beaten rice, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small idlis (120 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories) ",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories)  (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken biryani (250 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              " Vegetable Paratha (2 wheat flour rotis, 1/4 cup of onions, 1/4 cup of tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small paneer parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 cup of low-fat yogurt with 1/4 cup of muesli "],
+            snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka masala (250 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: [" Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              "1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of chicken curry, and 1 cup of buttermilk.",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:600 calories)",
             ],
           },
           Sunday: {
             breakfast: [
-              " Vegetable Uttapa (1 cup of 1/4 cup semolina, 1/4 cup of chopped onions, 1/4 cup of chopped tomatoes, 1 teaspoon of cumin powder, 1/4 teaspoon of turmeric, 1/4 teaspoon of black pepper, and salt to taste) with 2 whole wheat toast and 1 cup of green tea.",
+              " 2 small aloo parathas (320 calories) with 1 small cup low-fat yogurt (40 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [
-              "2 tablespoons of roasted peanuts with 1/4 cup of raisins ",
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
             ],
             Lunch: [
-              "1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of fish curry, and 1 cup of buttermilk.",
+              " 1 cup chicken tikka (200 calories) with 1 small whole wheat roti (80 calories) and 1 cup mixed vegetable salad (100 calories)(Total calories:400 calories)",
             ],
-            Snack: ["Fruits like 1 apple, 1 orange or 10-15 almonds."],
+            Snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              " 1 cup of boiled brown rice, 1/2 cup of cooked dal, 1/2 cup of cooked vegetables (beans, cauliflower, and carrots), 1 small bowl of vegetable curry, and 1 cup of buttermilk.",
+              "1 cup fish tikka (250 calories) with 1 small whole wheat roti (80 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:600 calories) ",
             ],
           },
         },
@@ -9126,7 +9336,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9144,7 +9354,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9159,10 +9369,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with carrot and beetroot",
             ],
@@ -9175,10 +9385,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat idlis with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9193,10 +9403,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -9211,10 +9421,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts and curry leaves, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -9227,10 +9437,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat dosas with coconut chutney and sambar, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (papaya, pineapple, and apple)",
             ],
             Lunch: [
@@ -9249,100 +9459,128 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
+              "2 small methi parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl sprouts chaat"],
+            snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories)  ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup fish curry",
+              " 1 cup mutton biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories)(Total calories:800 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp peanut butter",
+              "2 small dosas (120 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: ["1 bowl roasted makhana"],
+            snack: [
+              " 1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              " 2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup fish curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories) (Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted soya chunks"],
+            Snack: [
+              "1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled chicken",
+              "  1 cup chicken biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              " 2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
+              " 2 small moong dal cheela (180 calories) with 1/2 cup mint chutney (30 calories) and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: [" 1 bowl of roasted peanuts"],
+            snack: [
+              " 1 small apple (50 calories) and 10 almonds (50 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              " 1 cup lamb curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              "1 small pear (60 calories) and 10 pistachios (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup paneer curry",
+              "  1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), 1 cup mixed vegetable raita (100 calories), and 1/2 cup mixed vegetable salad (20 calories)(Total calories:800 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp almond butter",
+              " 2 small paneer parathas (360 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories) (Total calories:400 calories) ",
             ],
-            Snack: ["1 bowl khakras"],
+            snack: [
+              "  1 small orange (50 calories) and 10 cashews (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken tikka masala (250 calories) with 1 small whole wheat naan (150 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted soya chunks"],
+            Snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled fish",
+              " 1 cup lamb biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories)(Total calories:800 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "1 cup oats porridge with 2 egg whites and 2 tsp flaxseed",
+              " 2 small idlis (80 calories) with 1/2 cup coconut chutney (50 calories), 1 small cup sambar (50 calories), and 1/2 cup mixed vegetable salad (20 calories) (Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl roasted makhana"],
+            snack: [
+              "  1 small apple (50 calories) and 10 almonds (50 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              " 1 cup prawn curry (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              " 1 small pear (60 calories) and 10 pistachios (40 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup grilled chicken",
+              " 1 cup mutton korma (300 calories) with 1 small whole wheat naan (150 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 slices of whole wheat toast with 2 tsp peanut butter",
+              " 2 small moong dal parathas (320 calories) with 1/2 cup mixed vegetable salad (20 calories) and 1 small cup low-fat yogurt (20 calories)(Total calories:400 calories)",
             ],
-            Snack: [" 1 bowl of roasted peanuts"],
+            snack: [
+              "1 small orange (50 calories) and 10 cashews (50 calories) (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup chicken kebab (250 calories) with 1 small whole wheat roti (80 calories), 1/2 cup brown rice (100 calories), and 1 cup mixed vegetable salad (70 calories)(Total calories:500 calories)",
             ],
-            Snack: [" 1 cup roasted soya chunks"],
+            Snack: [
+              " 1 small banana (70 calories) and 10 peanuts (30 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup steamed brown rice, 1/2 cup boiled egg",
+              " 1 cup prawn biryani (550 calories) with 1/2 cup mixed vegetable raita (50 calories) and 1/2 cup mixed vegetable salad (20 calories), and 1 small cup low-fat yogurt (180 calories) (Total calories:800 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 egg omelette with 1/4 cup vegetables and 2 slices of whole wheat toast",
+              "  1 small bowl of chicken curry (150 calories) + 2 small whole wheat parathas (160 calories each) + 1 medium-sized orange (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 bowl khakras"],
+            snack: [
+              " 1 small bowl of sliced cucumber with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "2 chapatis, 1/2 cup dal, 1/2 cup vegetable curry, 1/2 cup curd",
+              "1 cup quinoa (150 calories) + 1 small bowl of mushroom curry (150 calories) + 1 small bowl of fish fry (150 calories) + 1 small bowl of low-fat yogurt (20 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup roasted chana"],
+            Snack: [
+              "1 small bowl of mixed berries (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl vegetable soup, 1/2 cup cooked brown rice, 1/2 cup paneer tikka",
+              "1 small bowl of chicken biryani (400 calories) + 1 small bowl of mixed vegetable raita (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories) ",
             ],
           },
         },
         veg: {
           Monday: {
             breakfast: ["1 small bowl of vegetable oats upma"],
-            Snack: ["1 small apple"],
+            snack: ["1 small apple"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of lentil soup",
             ],
@@ -9354,7 +9592,7 @@ export const Diets = {
 
           Tuesday: {
             breakfast: ["1 small bowl of vegetable dalia (broken wheat) upma"],
-            Snack: ["1 small orange (60 calories)"],
+            snack: ["1 small orange (60 calories)"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and beetroot, 2 small chapatis, 1 small bowl of moong dal soup",
             ],
@@ -9368,7 +9606,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable poha (flattened rice) with peanuts ",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               " 1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -9380,7 +9618,7 @@ export const Diets = {
 
           Thursday: {
             breakfast: ["1 small bowl of vegetable idli with coconut chutney"],
-            Snack: ["1 small guava"],
+            snack: ["1 small guava"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and capsicum, 2 small chapatis, 1 small bowl of chana dal soup",
             ],
@@ -9394,7 +9632,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney",
             ],
-            Snack: ["1 small peach"],
+            snack: ["1 small peach"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and radish, 2 small chapatis, 1 small bowl of matar paneer (peas and cottage cheese) curry",
             ],
@@ -9408,7 +9646,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable omelet with 1 small bowl of sprouts",
             ],
-            Snack: ["1 small banana"],
+            snack: ["1 small banana"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and carrot, 2 small chapatis, 1 small bowl of moong dal khichdi (rice and lentil porridge)",
             ],
@@ -9422,7 +9660,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable dalia (broken wheat) khichdi",
             ],
-            Snack: ["1 small pear"],
+            snack: ["1 small pear"],
             Lunch: [
               "1 small bowl of mixed vegetable salad with cucumber, tomato, and onion, 2 small chapatis, 1 small bowl of rajma (kidney beans) curry",
             ],
@@ -9437,93 +9675,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "2 whole wheat rotis + 1/2 cup cooked sprouts + 1 cup low fat yogurt",
+              " 2 small whole wheat parathas (160 calories each) + 1 small bowl of chicken curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories) + 1 medium-sized apple (60 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted chana"],
+            snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal fry",
+              "1 cup brown rice (150 calories) + 1 small bowl of mixed vegetable curry (150 calories) + 1 small bowl of fish fry (150 calories) + 1 small bowl of cucumber raita (20 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain chivda"],
+            Snack: [
+              " 1 small whole wheat pita bread + 1 small bowl of hummus (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of grilled fish + 2 cups of cooked brown rice + 1 bowl of spinach raita",
+              "1 small bowl of mutton curry (250 calories) + 2 small whole wheat chapatis (120 calories each) + 1 small bowl of mixed vegetable salad (30 calories) + 1 small bowl of low-fat yogurt (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories) ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 whole wheat parathas + 1/2 cup cooked brown rice + 1 cup of low fat curd",
+              " 1 small bowl of chicken soup (150 calories) + 2 small whole wheat parathas (160 calories each) + 1 medium-sized orange (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted peanuts"],
+            snack: [
+              "  1 small bowl of sliced cucumber with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable biryani + 1 cup of boiled vegetables + 1 bowl of dal tadka",
+              " 1 cup quinoa (150 calories) + 1 small bowl of mushroom curry (150 calories) + 1 small bowl of fish curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories)(Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain mathris"],
+            Snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken curry + 2 cups of cooked brown rice + 1 bowl of cucumber raita",
+              "1 small bowl of chicken biryani (400 calories) + 1 small bowl of mixed vegetable raita (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories)",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 whole wheat pancakes + 1/2 cup cooked oats + 1 cup of low fat milk",
+              "2 small whole wheat parathas (160 calories each) + 1 small bowl of fish curry (150 calories) + 1 small bowl of low-fat yogurt (20 calories) + 1 medium-sized apple (60 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted makhana"],
+            snack: [
+              " 1 small bowl of mixed berries (100 calories)(Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal makhani",
+              "1 cup brown rice (150 calories) + 1 small bowl of mixed vegetable curry (150 calories) + 1 small bowl of chicken tikka (150 calories) + 1 small bowl of cucumber raita (20 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain biscuits"],
+            Snack: [
+              "1 small bowl of sliced carrots with a dash of lemon juice (100 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of tandoori chicken + 2 cups of cooked brown rice + 1 bowl of mint raita",
+              " 1 small bowl of lamb rogan josh (250 calories) + 2 small whole wheat chapatis (120 calories each) + 1 small bowl of mixed vegetable salad (30 calories) + 1 small bowl of low-fat yogurt (60 calories) + 1 small bowl of mixed fruit salad (100 calories) (Total calories:660 calories)",
             ],
           },
           Thursday: {
             breakfast: [
-              "2 multigrain chapatis + 1/2 cup cooked quinoa + 1 cup of low fat lassi",
+              "2 whole wheat chapatis (120 calories),1/2 cup low-fat paneer bhurji (130 calories),1/2 cup mixed vegetables (50 calories),1 small apple (70 calories) (Total calories:370 calories)",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted almonds"],
+            snack: [
+              " 1 small pear (60 calories),1 tablespoon almond butter (40 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable kadhi + 1 cup of boiled vegetables + 1 bowl of dal palak",
+              "1 cup brown rice (150 calories),1/2 cup chicken curry (180 calories),1/2 cup mixed vegetables (50 calories),1 small orange (50 calories),1/2 cup low-fat yogurt (40 calories) (Total calories:470 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain muffins"],
+            Snack: [
+              "1 small peach (60 calories),1 string cheese stick (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of fish tikka masala + 2 cups of cooked brown rice + 1 bowl of onion raita",
+              "2 oz. tandoori chicken breast (150 calories),1 cup spinach and lentil dal (200 calories),1/2 cup brown rice (75 calories),1 cup mixed vegetables (100 calories),1 small whole wheat naan (200 calories),1 small banana (85 calories)  (Total calories:860 calories)",
             ],
           },
           Friday: {
             breakfast: [
-              "2 whole wheat dosa + 1/2 cup cooked millet + 1 cup of low fat buttermilk",
+              "1 cup oatmeal with 1 tablespoon chopped walnuts and 1/2 cup unsweetened almond milk (280 calories),1 hard-boiled egg (70 calories),1 small orange (50 calories),1/2 cup low-fat yogurt (50 calories)(Total calories:450 calories) ",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted kurmura"],
+            snack: [
+              " 1 small apple (70 calories),1 string cheese stick (40 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "1 bowl of vegetable upma + 1 cup of boiled vegetables + 1 bowl of dal fry",
+              "1 cup brown rice (150 calories),1/2 cup chicken kebab (150 calories),1/2 cup mixed vegetables (50 calories),1 small pear (60 calories),1/2 cup low-fat yogurt (40 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain poha"],
+            Snack: [
+              "1 small peach (60 calories),1 tablespoon almond butter (40 calories)(Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken tikka masala + 2 cups of cooked brown rice + 1 bowl of boondi raita",
+              "2 oz. lamb curry (200 calories),1/2 cup brown rice (75 calories),1 cup mixed vegetables (100 calories),1 small whole wheat naan (200 calories),1 small banana (85 calories),1/2 cup low-fat yogurt (40 calories)(Total calories:850 calories) ",
             ],
           },
           Saturday: {
             breakfast: [
-              "2 multigrain idlis + 1/2 cup cooked rajma + 1 cup of low fat curd",
+              "2 small multigrain parathas (150g) with 100g mushroom bhurji (Total calories:180 calories) ",
             ],
-            Snack: ["1 cup of herbal tea + 1 small bowl of roasted cashews"],
+            snack: [
+              "1 small bowl of roasted chana (Total calories:100 calories)  ",
+            ],
             Lunch: [
-              "1 bowl of vegetable pulao + 1 cup of boiled vegetables + 1 bowl of dal makhani",
+              "1 cup brown rice (195g) with 150g fish fry (Total calories:370 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain chips"],
+            Snack: [
+              " 1 small bowl of cucumber and tomato raita (Total calories:100 calories)",
+            ],
             Dinner: [
-              "1 bowl of fish curry + 2 cups of cooked brown rice + 1 bowl of tomato raita",
+              " 150g mutton keema (250 calories) with 1 small whole wheat roti (Total calories:150 calories) ",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 whole wheat uttapam + 1/2 cup cooked barley + 1 cup of low fat lassi",
+              " 2 small idlis (60g) with 100g chicken sambar (Total calories:230 calories) ",
             ],
-            Snack: ["1 cup of green tea + 1 small bowl of roasted walnuts"],
+            snack: [
+              " 1 small bowl of mixed fruit salad (Total calories:100 calories) ",
+            ],
             Lunch: [
-              "1 bowl of vegetable khichdi + 1 cup of boiled vegetables + 1 bowl of dal tadka",
+              "1 cup brown rice (195g) with 150g chicken tikka masala (Total calories:390 calories)",
             ],
-            Snack: ["1 cup of masala chai + 2 multigrain nachos"],
+            Snack: [
+              " 1 small bowl of moong dal chilla (35g) with 1 tablespoon of green chutney (Total calories:150 calories)",
+            ],
             Dinner: [
-              "1 bowl of chicken biryani + 2 cups of cooked brown rice + 1 bowl of onion raita",
+              "150g fish curry (340 calories) with 1 small whole wheat roti (Total calories:150 calories) ",
             ],
           },
         },
@@ -9532,7 +9798,7 @@ export const Diets = {
             breakfast: [
               "2 scrambled eggs (or tofu scramble) with 1 slice of whole wheat toast and 1 small apple ",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries ",
             ],
             Lunch: [
@@ -9548,7 +9814,7 @@ export const Diets = {
             breakfast: [
               "1 small banana with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of strawberries",
             ],
             Lunch: [
@@ -9564,7 +9830,7 @@ export const Diets = {
             breakfast: [
               "1 cup of cooked oatmeal with 1 small apple, 1 tablespoon of chopped pecans, and 1 tablespoon of honey",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of raspberries",
             ],
             Lunch: [
@@ -9580,7 +9846,7 @@ export const Diets = {
             breakfast: [
               "2 small pancakes made with 1/2 cup of whole wheat flour, 1/2 cup of unsweetened almond milk, and 1 egg (or flax egg), topped with 1/2 cup of mixed berries and 1 		tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced peaches",
             ],
             Lunch: [
@@ -9593,10 +9859,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small banana with 1 tablespoon of almond butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of mixed berries",
             ],
             Lunch: [
@@ -9609,10 +9875,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat waffles with 1/2 cup of mixed berries and 1 tablespoon of pure maple syrup",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of sliced kiwi",
             ],
             Lunch: [
@@ -9625,10 +9891,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small apple with 2 tablespoons of peanut butter and 1 slice of whole wheat toast",
             ],
-            Snack: [
+            snack: [
               "1 small container of non-fat Greek yogurt with 1/2 cup of blueberries",
             ],
             Lunch: [
@@ -9645,97 +9911,121 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " Masala oats with vegetables (1 cup) and 2 small grilled chicken sausages (50g)(Total calories:350 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              " 1 small apple (100g) and 5 almonds (10g) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 cup brown rice (cooked), 1 small bowl of chana masala (150g), and 1 small bowl of cucumber raita (50g)  (Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              " 1 small orange (100g) and 1 boiled egg (Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of grilled chicken, 1 bowl of spinach curry and a glass of buttermilk",
+              "Tandoori chicken (150g), 1 small bowl of palak paneer (100g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:1000 calories): ",
             ],
           },
           Tuesday: {
             breakfast: [
-              "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
+              "  2 small multigrain bread slices (40g) with 1 small bowl of mushroom and spinach curry (150g) and 2 small chicken sausages (50g)(Total calories:350 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "1 small pear (100g) and 5 walnuts (10g) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 1 small bowl of rajma (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of sprouts salad (100g) with 1 small tomato (50g)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of fish curry, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              " 1 small bowl of mutton curry (150g), 1 small bowl of baingan bharta (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Wednesday: {
             breakfast: [
-              "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              "1 small bowl of paneer bhurji (100g) and 2 small whole wheat rotis (50g each)(Total calories:350 calories) ",
             ],
-            Snack: [
-              " 2 tablespoons of roasted chana and a glass of buttermilk",
+            snack: [
+              "  1 small guava (100g) and 5 almonds (10g)(Total calories:150 calories) ",
             ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 small bowl of chicken tikka masala (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of carrot and cucumber sticks (100g) with hummus (2 tbsp)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of paneer tikka, 1 bowl of spinach curry and a glass of buttermilk",
+              " 1 small bowl of fish curry (150g), 1 small bowl of aloo gobi (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Thursday: {
             breakfast: [
-              " one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 small multigrain bread slices (40g) with 1 small bowl of mushroom and spinach curry (150g) and 2 small chicken sausages (50g)(Total calories:350 calories) ",
             ],
-            Snack: [
-              " 2 tablespoons of roasted chana and a glass of buttermilk",
+            snack: [
+              "  1 small apple (100g) and 5 walnuts (10g) (Total calories:150 calories)",
             ],
             Lunch: [
-              " 2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 small bowl of dal makhani (150g), 1 small bowl of mixed vegetable salad (50g), and 2 small whole wheat rotis (50g each)(Total calories:450 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              " 1 small bowl of sprouts salad (100g) with 1 small tomato (50g) (Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of chicken tikka masala, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              " 1 small bowl of fish curry (150g), 1 small bowl of aloo gobi (100g), 2 small whole wheat rotis (50g each), and 1 small bowl of mixed vegetable salad (50g)(Total calories:1000 calories) ",
             ],
           },
           Friday: {
             breakfast: [
-              "2 slices of whole-wheat bread, 2 egg whites, ½ cup of low-fat Greek yogurt and a cup of green tea",
+              "1 small bowl of oatmeal cooked in low-fat milk and topped with chopped almonds and dried cranberries (280 calories) + 1 small banana (120 calories) (Total calories:400 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "  Grilled fish fillet with lemon and herbs (150 calories) (Total calories:150 calories) ",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 2 small whole wheat rotis (200 calories) + 1 cup of chicken curry made with mixed vegetables (150 calories) + 1 small bowl of curd (100 calories) + 1 small orange (50 calories)(Total calories:500 calories)",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of mixed nuts (150 calories)(Total calories:150 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of grilled fish, 1 bowl of spinach curry and a glass of buttermilk",
+              "1 cup of brown rice (200 calories) + 1 cup of palak paneer made with low-fat paneer (150 calories) + 1 small bowl of mixed vegetable salad (50 calories) + 1 small bowl of dal tadka (100 calories) + 1 small bowl of fruit salad (200 calories) + 2 small whole wheat rotis (200 calories)(Total calories:900 calories)",
             ],
           },
           Saturday: {
             breakfast: [
-              "one bowl of oats with vegetables, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 small whole wheat parathas stuffed with spiced chicken mince and onions (300 calories) + 1 small orange (50 calories) + 1 small cup of low-fat milk tea (50 calories)(Total calories:400 calories) ",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              " Grilled chicken breast with mint chutney (150 calories) (Total calories:150 calories)",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of vegetable pulao, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              "1 cup of brown rice (200 calories) + 1 cup of mixed vegetable curry made with cauliflower, peas, and carrots (150 calories) + 1 small bowl of curd (100 calories) + 1 small apple (50 calories)(Total calories:500 calories)",
             ],
-            Snack: ["1 cup of roasted peanuts"],
+            Snack: [
+              "1 small bowl of mixed fruit chaat with lemon and chat masala (150 calories)(Total calories:150 calories)",
+            ],
             Dinner: [
-              " 2 chapattis, 1 cup of tandoori chicken, 1 bowl of mixed vegetable curry and a glass of buttermilk",
+              "2 small whole wheat rotis (200 calories) + 1 cup of mutton curry made with mixed vegetables (300 calories) + 1 small bowl of mixed vegetable salad (50 calories) + 1 small bowl of fruit salad (200 calories) + 1 small bowl of low-fat vanilla ice cream (150 calories) (Total calories:900 calories)",
             ],
           },
           Sunday: {
             breakfast: [
-              "2 slices of whole-wheat bread with peanut butter, ½ cup of skimmed milk, 2 egg whites and a cup of green tea",
+              " 2 medium-sized Moong Dal Chilas (260 calories) + 2 tbsp mint-coriander chutney (22 calories) + 1 cup masala chai made with skimmed milk (200 calories) (Total calories:450 calories)",
             ],
-            Snack: ["2 tablespoons of roasted chana and a glass of buttermilk"],
+            snack: [
+              "  1 small apple (80 calories) + 1 slice low-fat cheese (20 calories) (Total calories:100 calories)",
+            ],
             Lunch: [
-              "2 chapattis, 1 cup of dal, 1 cup of vegetable curry, a small bowl of raita and a small bowl of salad",
+              " 1 cup chicken curry (250 calories) + 1 cup cooked brown rice (110 calories) + 1 cup cucumber and tomato salad with lemon juice dressing (50 calories) + 1 small orange (66 calories) (Total calories:480 calories)",
             ],
-            Snack: [" 1 cup of roasted peanuts"],
+            Snack: [
+              " 1 cup plain yogurt (80 calories) + 1/4 cup mixed berries (20 calories) (Total calories:100 calories)",
+            ],
             Dinner: [
-              "2 chapattis, 1 cup of shrimp curry, 1 bowl of spinach curry and a glass of buttermilk",
+              "  2 small whole wheat rotis (240 calories) + 1 cup spinach and paneer curry (350 calories) + 1 cup cooked quinoa (120 calories) + 1 small bowl of fruit salad (60 calories) (Total calories:870 calories)",
             ],
           },
         },
@@ -9744,7 +10034,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with 1 small bowl of sambar, 1 small bowl of coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -9762,7 +10052,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma made with semolina and mixed vegetables, 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -9773,10 +10063,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small vegetable uttapams, 1 small bowl of coconut chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -9789,10 +10079,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha made with flattened rice and mixed vegetables, 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9805,10 +10095,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small moong dal chilas with 1 small bowl of tomato chutney, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (guava, watermelon, and kiwi)",
             ],
             Lunch: [
@@ -9821,10 +10111,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               " 1 small bowl of vegetable idlis with 1 small bowl of sambar, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, orange, and grapes)",
             ],
             Lunch: [
@@ -9839,10 +10129,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               " 2 small whole wheat parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
+            snack: ["1 small cup of mixed fruits (apple, pear, and papaya)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9857,94 +10147,94 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              " 2 egg omelette with spinach and grilled mushrooms with 1 cup of oats and 1 cup of fat-free yogurt",
+              " 2 chapatis + 1 small bowl of chicken curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small apple (80 calories)  "],
             Lunch: [
-              " 2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              " 1 cup brown rice + 1 small bowl of fish curry (400 calories)",
             ],
-            Snack: [
-              " 2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: [" 1 cup low-fat yogurt (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: [" Baked fish with 1 cup of steamed vegetables "],
           },
           Tuesday: {
             breakfast: [
-              "2 poached eggs with spinach and low-fat cheese with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small dosas + 1 small bowl of chicken gravy (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: [" 1 small pear (60 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
+              " 1 cup quinoa + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 cup low-fat buttermilk (50 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of fish curry (500 calories) ",
             ],
-            Dinner: [" Grilled chicken breast with 1 cup of steamed broccoli "],
           },
           Wednesday: {
             breakfast: [
-              "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small idlis + 1 small bowl of mutton curry (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small orange (60 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup brown rice + 1 small bowl of chicken curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 cup low-fat yogurt (100 calories)"],
+            Dinner: [
+              " 2 small rotis + 1 small bowl of fish curry (500 calories)",
             ],
-            Dinner: ["Baked tofu with 1 cup of steamed beans "],
           },
           Thursday: {
             breakfast: [
-              "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
+              " 2 small parathas + 1 small bowl of egg curry (350 calories) ",
             ],
-            Snack: ["1 cup of roasted chickpeas"],
+            snack: ["  1 small banana (80 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup quinoa + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of mixed nuts (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: ["Grilled salmon with 1 cup of steamed cauliflower"],
           },
           Friday: {
             breakfast: [
-              "2 egg omelette with bell peppers and onions with 1 cup of oats and 1 cup of fat-free yogurt",
+              " 2 small dosas + 1 small bowl of chicken gravy (350 calories)",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: [" 1 small apple (80 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              " 1 cup brown rice + 1 small bowl of fish curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of mixed nuts (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of prawn curry (500 calories) ",
             ],
-            Dinner: [" Baked chicken breast with 1 cup of steamed spinach "],
           },
           Saturday: {
             breakfast: [
-              "2 boiled eggs with 1 cup of oats and 1 cup of fat-free yogurt ",
+              "2 small idlis + 1 small bowl of mutton curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["  1 small pear (60 calories) "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry ",
+              "1 cup quinoa + 1 small bowl of chicken curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: [" 1 small cup of low-fat buttermilk (50 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of fish curry (500 calories) ",
             ],
-            Dinner: ["Grilled tofu with 1 cup of steamed peas "],
           },
           Sunday: {
             breakfast: [
-              "2 scrambled eggs with tomato and mushrooms with 1 cup of oats and 1 cup of fat-free yogurt ",
+              "2 chapatis + 1 small bowl of egg curry (350 calories) ",
             ],
-            Snack: [" 1 cup of roasted chickpeas"],
+            snack: ["1 small orange (60 calories)  "],
             Lunch: [
-              "2 chapatis with 1 cup of dal and 1 cup of low-fat vegetable curry",
+              "1 cup brown rice + 1 small bowl of prawn curry (400 calories)",
             ],
-            Snack: [
-              "2 tablespoon of peanut butter with 1 cup of roasted carrots",
+            Snack: ["1 small cup of low-fat yogurt (100 calories)"],
+            Dinner: [
+              "2 small rotis + 1 small bowl of mutton curry (500 calories) ",
             ],
-            Dinner: ["Baked fish with 1 cup of steamed mushrooms"],
           },
         },
         veg: {
@@ -9952,7 +10242,7 @@ export const Diets = {
             breakfast: [
               " 2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9968,7 +10258,7 @@ export const Diets = {
             breakfast: [
               "small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 1 small bowl of brown rice, 1 small bowl of salad with cucumber and tomato, and 1 small bowl of low-fat yogurt",
             ],
@@ -9979,10 +10269,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
+            snack: ["1 small bowl of roasted makhana (foxnuts) with spices"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of baingan bharta, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -9995,10 +10285,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats with 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small cup of mixed fruits (pomegranate, pear, and berries)",
             ],
             Lunch: [
@@ -10013,10 +10303,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable sandwiches with green chutney, and 1 cup of masala chai with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
+            snack: ["1 small cup of mixed fruits (guava, kiwi, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 1 small bowl of brown rice, 1 small bowl of vegetable raita, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10027,10 +10317,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable upma with coconut chutney, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10043,10 +10333,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas with 1 small bowl of mixed vegetable raita, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
+            snack: ["1 small cup of mixed fruits (orange, apple, and berries)"],
             Lunch: [
               "1 small bowl of mixed vegetable dal, 2 small whole wheat chapatis, 1 small bowl of bhindi masala, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10062,82 +10352,98 @@ export const Diets = {
       2300: {
         nonVeg: {
           Monday: {
-            breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            Snack: ["Handful of almonds"],
-            Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+            breakfast: [
+              " 2 medium-sized dosas with coconut chutney and sambar (400 calories) ",
             ],
-            Snack: ["Sliced cucumber with hummus"],
-            Dinner: ["Grilled fish with a side of mixed vegetables and quinoa"],
-          },
-
-          Tuesday: {
-            breakfast: ["Oatmeal with mixed berries and chopped nuts"],
-            Snack: ["Carrot sticks with hummus"],
+            snack: ["1 small apple (80 calories)  "],
             Lunch: [
-              "Chicken and vegetable soup with a side of whole wheat bread",
+              "1 cup of mixed vegetable curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
             ],
-            Snack: ["Sliced apple with peanut butter"],
-            Dinner: ["Baked salmon with a side of roasted broccoli and quinoa"],
-          },
-
-          Wednesday: {
-            breakfast: ["Greek yogurt with sliced banana and granola"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [
-              "Grilled chicken breast with a side of mixed vegetables and brown rice",
+            Snack: [
+              "1 cup of low-fat yogurt with mixed berries (120 calories)",
             ],
-            Snack: ["Raw vegetable sticks with tzatziki"],
             Dinner: [
-              " Grilled shrimp with a side of mixed green salad and brown rice",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
+          Tuesday: {
+            breakfast: [
+              "  1 cup of oatmeal with 1/4 cup of chopped nuts and 1/2 cup of mixed berries (400 calories)",
+            ],
+            snack: [" 1 small orange (60 calories) "],
+            Lunch: [
+              " 1 cup of palak paneer with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
+            Dinner: [
+              " 1 cup of grilled fish with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories)",
+            ],
+          },
+          Wednesday: {
+            breakfast: [
+              "2 medium-sized dosas with coconut chutney and sambar (400 calories) ",
+            ],
+            snack: [" 1 small pear (80 calories)  "],
+            Lunch: [
+              "1 cup of chicken biryani with 1 small bowl of cucumber raita and a small salad (550 calories)",
+            ],
+            Snack: [" 1 small banana (90 calories)"],
+            Dinner: [
+              "1 cup of sautéed shrimp with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
+            ],
+          },
           Thursday: {
             breakfast: [
-              "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
+              " 1 cup of poha with mixed vegetables and 1/2 cup of yogurt (400 calories)",
             ],
-            Snack: ["Raw vegetable sticks with hummus"],
-            Lunch: ["Tuna salad with mixed greens and cherry tomatoes"],
-            Snack: ["Sliced bell pepper with guacamole"],
+            snack: ["  1 small apple (80 calories) "],
+            Lunch: [
+              "1 cup of lamb curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled chicken kebab with a side of mixed vegetables and quinoa",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
           Friday: {
             breakfast: [
-              "Poached eggs with whole wheat toast and sautéed spinach",
+              " 2 medium-sized idlis with coconut chutney and sambar (400 calories)",
             ],
-            Snack: ["Handful of almonds"],
+            snack: ["  1 small orange (60 calories) "],
             Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+              "1 cup of chicken tikka masala with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
             ],
-            Snack: ["Sliced cucumber with hummus"],
+            Snack: [" 1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled fish with a side of mixed vegetables and brown rice",
+              " 1 cup of grilled fish with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories)",
             ],
           },
-
           Saturday: {
-            breakfast: ["Greek yogurt with mixed berries and granola"],
-            Snack: ["Raw vegetable sticks with tzatziki"],
-            Lunch: ["Chicken tikka masala with a side of brown rice"],
-            Snack: ["Sliced apple with cashew butter"],
+            breakfast: [
+              " 1 cup of spinach and mushroom omelet with 1 slice of whole-grain toast (400 calories) ",
+            ],
+            snack: [" 1 small banana (90 calories) "],
+            Lunch: [
+              "1 cup of mutton keema with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: ["1 small handful of unsalted mixed nuts (120 calories)"],
             Dinner: [
-              "Grilled steak with a side of mixed vegetables and quinoa",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
-
           Sunday: {
-            breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [
-              "Grilled shrimp with a side of mixed green salad and brown rice",
+            breakfast: [
+              " 1 cup of mushroom and spinach omelet with 1 slice of whole-grain toast (400 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
+            snack: ["  1 small apple (80 calories) "],
+            Lunch: [
+              " 1 cup of fish curry with 1 small roti, 1 cup of brown rice, and a small salad (550 calories)",
+            ],
+            Snack: [
+              " 1 cup of low-fat yogurt with mixed berries (120 calories)",
+            ],
             Dinner: [
-              "Baked chicken breast with a side of mixed vegetables and brown rice",
+              "1 cup of grilled chicken breast with 1/2 cup of mixed vegetables and 1 small sweet potato (600 calories) ",
             ],
           },
         },
@@ -10146,7 +10452,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of sprouts chaat with lemon juice and spices",
             ],
             Lunch: [
@@ -10162,7 +10468,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled moong dal (mung beans) with lemon juice and spices",
             ],
             Lunch: [
@@ -10175,10 +10481,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat vegetable parathas, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10193,10 +10499,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable oats porridge, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10209,10 +10515,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable dalia (broken wheat), 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of roasted peanuts"],
+            snack: ["1 small bowl of roasted peanuts"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10225,10 +10531,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable idli with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of boiled chana (chickpeas) with lemon juice and spices",
             ],
             Lunch: [
@@ -10241,10 +10547,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10263,79 +10569,99 @@ export const Diets = {
         nonVeg: {
           Monday: {
             breakfast: [
-              "Omelet made with egg whites, spinach, and mushrooms, served with a slice of whole wheat toast",
+              " 2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar (400 calories)",
             ],
-            Snack: ["Handful of almonds"],
+            snack: [" 1 small apple and 10 almonds (100 calories) "],
             Lunch: [
-              "Grilled chicken breast with a side of mixed green salad and brown rice",
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small chicken breast, and 1 small bowl of curd (500 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
-            Dinner: ["Baked salmon with a side of roasted broccoli and quinoa"],
+            Snack: ["1 cup of buttermilk and 1 small banana(100 calories)"],
+            Dinner: [
+              " 1 cup of mutton biryani, 1 cup of raita, and 1 cup of mixed salad (1200 calories)",
+            ],
           },
-
           Tuesday: {
-            breakfast: [" Greek yogurt with berries and chopped nuts"],
-            Snack: ["snackRaw vegetable sticks with tzatziki"],
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of fish curry and 1 cup of tea without sugar (400 calories) ",
+            ],
+            snack: [" 1 small pear and 10 cashews(100 calories) "],
             Lunch: [
-              "Chicken and vegetable soup with a side of whole wheat bread",
+              " 1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd (500 calories)",
             ],
-            Snack: ["Apple slices with peanut butter"],
+            Snack: [
+              " 1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
             Dinner: [
-              "Grilled chicken breast with a side of mixed vegetables and quinoa",
+              "1 cup of chicken biryani, 1 cup of raita, and 1 cup of mixed salad(1200 calories) ",
             ],
           },
-
           Wednesday: {
-            breakfast: ["Scrambled eggs with spinach and whole wheat toast"],
-            Snack: ["Handful of walnuts"],
-            Lunch: [" Tuna salad with mixed greens and cherry tomatoes"],
-            Snack: ["Raw vegetable sticks with hummus"],
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of lamb curry and 1 cup of tea without sugar (400 calories) ",
+            ],
+            snack: [" 1 small orange and 10 almonds(100 calories) "],
+            Lunch: [
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small lamb chop, and 1 small bowl of curd (500 calories)",
+            ],
+            Snack: [" 1 cup of buttermilk and 1 small banana(100 calories)"],
             Dinner: [
-              "Grilled shrimp with a side of mixed vegetables and brown rice",
+              " 1 cup of prawn biryani, 1 cup of raita, and 1 cup of mixed salad (1200 calories)",
             ],
           },
-
           Thursday: {
             breakfast: [
-              "Smoothie made with unsweetened almond milk, mixed berries, and chia seeds",
+              " 2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar (400 calories) ",
             ],
-            Snack: [" Carrot sticks with hummus"],
+            snack: [" 1 small apple and 10 cashews(100 calories) "],
             Lunch: [
-              "Grilled chicken kebab with a side of mixed green salad and brown rice",
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd(500 calories)",
             ],
-            Snack: ["Cottage cheese with sliced peaches"],
-            Dinner: ["Grilled fish with a side of mixed vegetables and quinoa"],
+            Snack: [
+              "1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
+            Dinner: [
+              "1 cup of mutton curry, 1 cup of brown rice, and 1 cup of mixed salad (1200 calories)",
+            ],
           },
-
           Friday: {
-            breakfast: ["Oatmeal with sliced banana and cinnamon"],
-            Snack: ["Raw vegetable sticks with tzatziki"],
-            Lunch: ["Chicken tikka masala with a side of brown rice"],
-            Snack: ["Sliced cucumber with guacamole"],
-            Dinner: [
-              "Grilled steak with a side of mixed vegetables and quinoa",
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of fish curry and 1 cup of tea without sugar(400 calories) ",
             ],
-          },
-
-          Saturday: {
-            breakfast: [" Greek yogurt with mixed berries and granola"],
-            Snack: ["Handful of almonds"],
-            Lunch: ["Chicken salad with mixed greens and cherry tomatoes"],
-            Snack: ["Apple slices with cashew butter"],
-            Dinner: [
-              "Baked chicken breast with a side of mixed vegetables and brown rice",
-            ],
-          },
-
-          Sunday: {
-            breakfast: ["Avocado toast with a side of sliced tomatoes"],
-            Snack: ["Handful of walnuts"],
+            snack: ["  1 small pear and 10 almonds (100 calories)"],
             Lunch: [
-              "Grilled shrimp with a side of mixed green salad and brown rice",
+              "1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small chicken breast, and 1 small bowl of curd(500 calories)",
             ],
-            Snack: ["Sliced bell pepper with hummus"],
+            Snack: ["1 cup of buttermilk and 1 small banana(100 calories)"],
             Dinner: [
-              "Grilled chicken breast with a side of mixed vegetables and quinoa",
+              "1 cup of mutton curry, 1 cup of brown rice, and 1 cup of mixed salad(1200 calories) ",
+            ],
+          },
+          Saturday: {
+            breakfast: [
+              " 2 small whole wheat parathas with 1 cup of lamb curry and 1 cup of tea without sugar (400 calories)",
+            ],
+            snack: ["1 small orange and 10 cashews(100 calories)  "],
+            Lunch: [
+              "1 cup of brown rice, 1 cup of mixed vegetable curry, 1 small fish fillet, and 1 small bowl of curd(500 calories)",
+            ],
+            Snack: [
+              "1 cup of green tea and 2 digestive biscuits(100 calories)",
+            ],
+            Dinner: [
+              " 1 cup of prawn curry, 1 cup of brown rice, and 1 cup of mixed salad  (1200 calories)",
+            ],
+          },
+          Sunday: {
+            breakfast: [
+              "  2 small whole wheat parathas with 1 cup of chicken curry and 1 cup of tea without sugar(400 calories)",
+            ],
+            snack: [" 1 small apple and 10 almonds(100 calories) "],
+            Lunch: [
+              " 1 cup of quinoa, 1 cup of mixed vegetable curry, 1 small lamb chop, and 1 small bowl of curd(500 calories)",
+            ],
+            Snack: [" 1 cup of buttermilk and 1 small banana(100 calories)"],
+            Dinner: [
+              " 1 cup of mutton biryani, 1 cup of raita, and 1 cup of mixed salad(1200 calories) ",
             ],
           },
         },
@@ -10344,7 +10670,7 @@ export const Diets = {
             breakfast: [
               "2 small whole wheat dosas with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cucumber and tomato",
             ],
@@ -10360,7 +10686,7 @@ export const Diets = {
             breakfast: [
               "1 small bowl of vegetable upma with tomato chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10375,10 +10701,10 @@ export const Diets = {
           },
 
           Wednesday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -10393,10 +10719,10 @@ export const Diets = {
           },
 
           Thursday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable poha with peanuts, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],
@@ -10409,10 +10735,10 @@ export const Diets = {
           },
 
           Friday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat idlis with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of roasted chana dal (split chickpeas) with spices",
             ],
             Lunch: [
@@ -10427,10 +10753,10 @@ export const Diets = {
           },
 
           Saturday: {
-            Breakfast: [
+            breakfast: [
               "1 small bowl of vegetable uttapam with coconut chutney, 1 small bowl of low-fat yogurt, and 1 cup of masala tea with low-fat milk and stevia",
             ],
-            Snack: [
+            snack: [
               "1 small bowl of mixed fruits (banana, orange, and berries)",
             ],
             Lunch: [
@@ -10445,10 +10771,10 @@ export const Diets = {
           },
 
           Sunday: {
-            Breakfast: [
+            breakfast: [
               "2 small whole wheat methi parathas with low-fat yogurt, and 1 cup of green tea with stevia",
             ],
-            Snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
+            snack: ["1 small bowl of mixed fruits (apple, pear, and grapes)"],
             Lunch: [
               "1 small bowl of mixed vegetable curry, 2 small whole wheat chapatis, 1 small bowl of brown rice, and 1 small bowl of salad with cabbage and carrots",
             ],

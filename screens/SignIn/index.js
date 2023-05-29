@@ -40,7 +40,7 @@ export default function SignIn() {
       >
         SignIn
       </Button>
-      <Image style={styles.image} source={require("../../assets/signin.jpg")} />
+      {/* <Image style={styles.image} source={require("../../assets/signin.jpg")} /> */}
     </View>
   );
 }

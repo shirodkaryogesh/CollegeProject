@@ -54,8 +54,8 @@ const Select = ({ route }) => {
                 onValueChange={(value) => setLevel(value)}
                 value={level}
               >
-                <RadioButton.Item label="level 1" value={1} />
-                <RadioButton.Item label="level 2" value={2} />
+                <RadioButton.Item label="type 1" value={1} />
+                <RadioButton.Item label="type 2" value={2} />
               </RadioButton.Group>
             </Card>
           </>

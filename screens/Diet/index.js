@@ -51,7 +51,7 @@ const Diet = ({ route }) => {
         Object.keys(diets).map((m, i) => (
           <List.Accordion title={m} key={`m${i}`}>
             <Card style={{ margin: 10 }} mode="outlined">
-              <Card.Title title="Breakfast" />
+              <Card.Title title="breakfast" />
               <Card.Content>
                 {diets[m]?.breakfast?.map((j) => (
                   <Text variant="titleLarge">{j}</Text>
