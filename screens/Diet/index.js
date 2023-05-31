@@ -1,33 +1,41 @@
 import { StyleSheet, Text, View, ScrollView } from "react-native";
 import React, { useLayoutEffect, useState } from "react";
-import { getDiets } from "../../utils/getDiets";
 import { List, Card } from "react-native-paper";
+import axios from "axios";
+import { apiUrl } from "../../utils";
 
 const Diet = ({ route }) => {
   const [loading, setLoading] = useState(false);
   const [dietsError, setDietsError] = useState("");
+  const [message, setMessage] = useState("");
   const [diets, setDiets] = useState(null);
   const { totalCalories, gender, level, foodType } = route.params;
+
+  const getAllDiets = async () => {
+    setLoading(true);
+    const url = `${apiUrl}/diet/get/${gender}/${Math.round(
+      totalCalories
+    )}/${level}?isVeg=${foodType === "veg"}`;
+    const { data } = await axios.get(url);
+    if (data.data.length > 0 && !data.isError) {
+      setDiets(data.data);
+    }
+    if (data.isError) {
+      setDietsError("No diet found in this range");
+    }
+    if (data.message.length > 0) {
+      setMessage(data.message);
+    }
+    setLoading(false);
+  };
 
   useLayoutEffect(() => {
     if (totalCalories && gender && level && foodType) {
       setLoading(true);
-      const { data, isError, message } = getDiets({
-        gender,
-        totalCalories,
-        level,
-        foodType,
-      });
-      if (data) {
-        setDiets(data);
-      }
-      if (isError || !data) {
-        setDietsError(message);
-      }
-
+      getAllDiets();
       setLoading(false);
     }
-  }, [totalCalories]);
+  }, [totalCalories, gender, level, foodType]);
 
   if (loading) {
     return (
@@ -48,6 +56,46 @@ const Diet = ({ route }) => {
   return (
     <ScrollView>
       {diets &&
+        diets.map((d, i) => (
+          <List.Accordion title={`Suggested diet ${+i + 1} `} key={d._id}>
+            <Card style={{ margin: 10, padding: 10 }} mode="outlined">
+              {Object.keys(d).map((m) => {
+                return (
+                  <View style={{ padding: 20 }} mode="outlined">
+                    <Text style={{ fontSize: 25, fontWeight: "bold" }}>
+                      {m}
+                    </Text>
+                    {m === "gender" ||
+                    m === "calories" ||
+                    m === "level" ||
+                    m === "_id" ? (
+                      <View>
+                        <Text>{d[m]}</Text>
+                      </View>
+                    ) : (
+                      <View>
+                        {d[m] &&
+                          Object.keys(d[m]).map((k) => {
+                            if (k !== "_id") {
+                              return (
+                                <View>
+                                  <Text style={{ fontSize: 20 }}>{k}</Text>
+                                  <View>
+                                    <Text>{d[m][k][0]}</Text>
+                                  </View>
+                                </View>
+                              );
+                            }
+                          })}
+                      </View>
+                    )}
+                  </View>
+                );
+              })}
+            </Card>
+          </List.Accordion>
+        ))}
+      {/* {diets &&
         Object.keys(diets).map((m, i) => (
           <List.Accordion title={m} key={`m${i}`}>
             <Card style={{ margin: 10 }} mode="outlined">
@@ -83,7 +131,7 @@ const Diet = ({ route }) => {
               </Card.Content>
             </Card>
           </List.Accordion>
-        ))}
+        ))} */}
     </ScrollView>
   );
 };

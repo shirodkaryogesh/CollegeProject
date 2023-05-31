@@ -16,8 +16,8 @@ export default function Screens() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="SignIn" component={SignIn} />
-        <Stack.Screen name="Signup" component={Signup} />
+        {/* <Stack.Screen name="SignIn" component={SignIn} />
+        <Stack.Screen name="Signup" component={Signup} /> */}
         <Stack.Screen name="HomePage" component={HomePage} />
         <Stack.Screen
           name="Select"

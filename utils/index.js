@@ -1,5 +1,5 @@
 import { calculateBMR } from "./calculateBMR";
 import { calculateCalories } from "./calculateTotalCalories";
-import { getDiets } from "./getDiets";
+import { apiUrl } from "./api";
 
-export { calculateBMR, calculateCalories, getDiets };
+export { calculateBMR, calculateCalories, apiUrl };
